@@ -1,0 +1,357 @@
+[
+  {
+    "id": 1,
+    "section": "a",
+    "type": "mcq",
+    "question": "Rearrange the jumbled parts to form a meaningful sentence:\nparticipate in the function (P)\nmany of the people who had come to (Q)\nthe auditorium was over-crowded (R)\ncould not find a seat because (S)",
+    "image": null,
+    "options": ["PROS", "PQRS", "QPSR", "SPRQ"],
+    "correctanswer": "QPSR",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 2,
+    "section": "a",
+    "type": "mcq",
+    "question": "Rearrange the jumbled parts to form a meaningful sentence:\nlay outside her existing life (P)\nshe knew that the answer (Q)\nsomewhere in the back of her mind (R)\nto her question about life (S)",
+    "image": null,
+    "options": ["RPQS", "QSPR", "QPSR", "RQSP"],
+    "correctanswer": "RQSP",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 3,
+    "section": "a",
+    "type": "mcq",
+    "question": "Rearrange the jumbled parts to form a meaningful sentence:\nworks of literature (P)\ninside the pages of all good (Q)\nlies the truth about some of (R)\nthe more challenging question posed by humanity (S)",
+    "image": null,
+    "options": ["PRQS", "QPRS", "QPSR", "RPSQ"],
+    "correctanswer": "QPRS",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 4,
+    "section": "a",
+    "type": "mcq",
+    "question": "Rearrange the jumbled parts to form a meaningful sentence:\ntakes on account of its economic successes (P)\nto address continuing social inequality (Q)\nfor every stride of progress any nation (R)\nit takes two back if it is unable (S)",
+    "image": null,
+    "options": ["PROS", "QPRS", "RPSQ", "RPQS"],
+    "correctanswer": "RPSQ",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 5,
+    "section": "a",
+    "type": "mcq",
+    "question": "Rearrange the jumbled parts to form a meaningful sentence:\nthe book value of a loan or (P)\nan intangible asset over a set period of time (Q)\nused to periodically lower (R)\namortisation is an accounting technique (S)",
+    "image": null,
+    "options": ["SRPQ", "RSPQ", "SRQP", "RPSQ"],
+    "correctanswer": "SRPQ",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 6,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate option:\nThere is more than __________ to get the job done.",
+    "image": null,
+    "options": ["one way", "one ways", "any ways", "any way"],
+    "correctanswer": "one way",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 7,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate option:\nThe class decided to organise __________.",
+    "image": null,
+    "options": ["picnic", "a picnic", "picnics", "the picnic"],
+    "correctanswer": "a picnic",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 8,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate option:\nThe accused __________ before the judge.",
+    "image": null,
+    "options": ["tried", "was trial", "sat trial", "stood trial"],
+    "correctanswer": "stood trial",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 9,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate option:\nThe manner in which the demolitions have been carried out __________ scrutiny by the High Court.",
+    "image": null,
+    "options": ["was under", "under", "is under", "however under"],
+    "correctanswer": "is under",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 10,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate option:\nI __________ consider the opinions of all stakeholders before taking a final decision.",
+    "image": null,
+    "options": ["will not", "have", "will", "shall"],
+    "correctanswer": "shall",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 11,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate discourse marker/expression:\n__________ your transfer request is concerned, we'll be discussing it at the next meeting.",
+    "image": null,
+    "options": ["As far as", "To begin", "By the way", "Talking about"],
+    "correctanswer": "As far as",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 12,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate discourse marker/expression:\n__________ did you know Ravi has a new job?",
+    "image": null,
+    "options": ["For one thing", "By the way", "In the first place", "As a result"],
+    "correctanswer": "By the way",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 13,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate discourse marker/expression:\n__________ the wind, it was getting stronger, and I was getting colder.",
+    "image": null,
+    "options": ["To begin with", "By the way", "First of all", "Speaking of"],
+    "correctanswer": "Speaking of",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 14,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate discourse marker/expression:\n__________ what are you doing in my room?",
+    "image": null,
+    "options": ["On the other hand", "Excuse me", "Look there", "Eventually"],
+    "correctanswer": "Excuse me",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 15,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate discourse marker/expression:\n__________ an happy childhood leads to criminal behaviour.",
+    "image": null,
+    "options": ["Still if", "Even somewhat", "In some cases", "In progression"],
+    "correctanswer": "In some cases",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 16,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate discourse marker/expression:\n__________ the problem is nothing but a wrong assumption about processes.",
+    "image": null,
+    "options": ["In the meanwhile", "Somewhat", "Engagingly", "In other words"],
+    "correctanswer": "In other words",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 17,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate discourse marker/expression:\nMany, __________, hesitate to publicly broach such questions for fear of nurturing discrimination.",
+    "image": null,
+    "options": ["understandably", "despite", "until", "of course"],
+    "correctanswer": "understandably",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 18,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate discourse marker/expression:\n__________ one notes that in the nineteenth century an important development of reflection and questioning gained momentum.",
+    "image": null,
+    "options": ["Particularly speaking", "Generally speaking", "Otherwise", "Of course"],
+    "correctanswer": "Generally speaking",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 19,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate discourse marker/expression:\n__________ the situation has completely transformed over the past few years.",
+    "image": null,
+    "options": ["Somewhat", "Believably", "Thus", "Predominantly"],
+    "correctanswer": "Thus",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 20,
+    "section": "a",
+    "type": "mcq",
+    "question": "Fill in the blank with the most appropriate discourse marker/expression:\n__________ the committee is of the opinion that all academic matters will be discussed in the Executive Body Meeting.",
+    "image": null,
+    "options": ["Hence", "But", "Later", "Although"],
+    "correctanswer": "Hence",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 21,
+    "section": "a",
+    "type": "mcq",
+    "question": "Identify the correct meaning of the given word:\nCynosure",
+    "image": null,
+    "options": [
+      "Person or thing that causes a change.",
+      "Person or thing that attracts a lot of attention.",
+      "Person or thing regarded as exact copy.",
+      "Person or animal that lives in a particular place."
+    ],
+    "correctanswer": "Person or thing that attracts a lot of attention.",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 22,
+    "section": "a",
+    "type": "mcq",
+    "question": "Identify the correct meaning of the given word:\nCoeval",
+    "image": null,
+    "options": [
+      "Person of roughly the same age.",
+      "Person or organisation that cooperates with others.",
+      "Person employed to drive a private car.",
+      "Person employed in taking."
+    ],
+    "correctanswer": "Person of roughly the same age.",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 23,
+    "section": "a",
+    "type": "mcq",
+    "question": "Identify the correct meaning of the given word:\nRetrogression",
+    "image": null,
+    "options": [
+      "Sudden sharp drop in price.",
+      "Reverse pressure.",
+      "Return to earlier state.",
+      "Sudden occurrence of a past event."
+    ],
+    "correctanswer": "Return to earlier state.",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 24,
+    "section": "a",
+    "type": "mcq",
+    "question": "Identify the correct meaning of the given word:\nImprest",
+    "image": null,
+    "options": [
+      "Surprise attack by people.",
+      "Money used to manage small expense.",
+      "Sudden occurrence of laughter.",
+      "Sudden increase in activity."
+    ],
+    "correctanswer": "Money used to manage small expense.",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 25,
+    "section": "a",
+    "type": "mcq",
+    "question": "Identify the correct meaning of the given word:\nTurgid",
+    "image": null,
+    "options": [
+      "Determined or loyal",
+      "Dirty or untidy",
+      "Swollen or distended",
+      "Excited or upset"
+    ],
+    "correctanswer": "Swollen or distended",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 26,
+    "section": "a",
+    "type": "mcq",
+    "question": "Select the option that is nearest in meaning to the underlined word:\nThe Constitution of India ensures proportionate representation from all regions.",
+    "image": null,
+    "options": ["balanced", "partial", "unlikely", "suffragette"],
+    "correctanswer": "balanced",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 27,
+    "section": "a",
+    "type": "mcq",
+    "question": "Select the option that is nearest in meaning to the underlined word:\nThere is a feeling of disenchantment among the members of the group.",
+    "image": null,
+    "options": ["delight", "disappointment", "idealism", "unrelenting"],
+    "correctanswer": "disappointment",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 28,
+    "section": "a",
+    "type": "mcq",
+    "question": "Select the option that is nearest in meaning to the underlined word:\nShe believed that it was imminent that he would be chosen as the leader of the group.",
+    "image": null,
+    "options": ["timely", "distant", "unlikely", "inevitable"],
+    "correctanswer": "inevitable",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 29,
+    "section": "a",
+    "type": "mcq",
+    "question": "Select the option that is nearest in meaning to the underlined word:\nThe brave soldiers left an indelible impression on the people of the land.",
+    "image": null,
+    "options": ["permanent", "fleeting", "hilarious", "eradicable"],
+    "correctanswer": "permanent",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  },
+  {
+    "id": 30,
+    "section": "a",
+    "type": "mcq",
+    "question": "Select the option that is nearest in meaning to the underlined word:\nThe manager always provides instantaneous replies to all queries.",
+    "image": null,
+    "options": ["immediate", "delayed", "deliberate", "unwanted"],
+    "correctanswer": "immediate",
+    "marks": 4.0,
+    "negativemarks": 1.333
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "section": "a",
+    "type": "mcq",
+    "question": "If the sum of binomial coefficients in the expansion of (x + y)ⁿ is 256, then the greatest binomial coefficient occurs in which one of the following terms?",
+    "image": null,
+    "options": ["Third", "Fourth", "Fifth", "Ninth"],
+    "correctanswer": "Fifth",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 2,
+    "section": "a",
+    "type": "mcq",
+    "question": "If k < (√2 + 1)³ < k + 2, where k is a natural number, then what is the value of k?",
+    "image": null,
+    "options": ["11", "13", "15", "17"],
+    "correctanswer": "13",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 3,
+    "section": "a",
+    "type": "mcq",
+    "question": "If [x 1 1] [[1, 2, 3], [4, 5, 6], [7, 8, 9]] [1, 6, x]ᵀ = [45], then which one of the following is a value of x?",
+    "image": null,
+    "options": ["-2", "-1", "0", "1"],
+    "correctanswer": "1",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 4,
+    "section": "a",
+    "type": "mcq",
+    "question": "If A = [[y, z, x], [z, x, y], [x, y, z]], where x, y and z are integers, is an orthogonal matrix, then what is the value of x² + y² + z²?",
+    "image": null,
+    "options": ["0", "1", "4", "14"],
+    "correctanswer": "1",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 5,
+    "section": "a",
+    "type": "mcq",
+    "question": "Consider the following in respect of a non-singular matrix M:\nI. |M²| = |M|²\nII. |M⁻¹| = |M|⁻¹\nIII. |M*| = |M|ⁿ⁻¹\nHow many of the above are correct?",
+    "image": null,
+    "options": ["None", "One", "Two", "All three"],
+    "correctanswer": "All three",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 6,
+    "section": "a",
+    "type": "mcq",
+    "question": "If f(θ) = [[cos θ, sin θ], [-sin θ, cos θ]], then what is (f(π))² equal to?",
+    "image": null,
+    "options": [
+      "[[-1, 0], [0, -1]]",
+      "[[1, 1], [1, 1]]",
+      "[[1, 0], [0, 1]]",
+      "[[-1, 0], [0, 1]]"
+    ],
+    "correctanswer": "[[1, 0], [0, 1]]",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 7,
+    "section": "a",
+    "type": "mcq",
+    "question": "If A = [[1, 2, 2], [2, 1, 2], [2, 2, 1]], then what is A² - 4A equal to?",
+    "image": null,
+    "options": ["-5I₃", "-I₃", "I₃", "5I₃"],
+    "correctanswer": "5I₃",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 8,
+    "section": "a",
+    "type": "mcq",
+    "question": "If the number of selections of r as well as (n + r) things from 5n different things are equal, then what is the value of r?",
+    "image": null,
+    "options": ["n", "2n", "3n", "4n"],
+    "correctanswer": "2n",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 9,
+    "section": "a",
+    "type": "mcq",
+    "question": "What is the number of selections of at most 3 things from 6 different things?",
+    "image": null,
+    "options": ["20", "22", "41", "42"],
+    "correctanswer": "42",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 10,
+    "section": "a",
+    "type": "mcq",
+    "question": "If A = [[x, y, z], [y, z, x], [z, x, y]] where x, y and z are integers is an orthogonal matrix, then what is A² equal to?",
+    "image": null,
+    "options": ["Null matrix", "Identity matrix", "A", "-A"],
+    "correctanswer": "Identity matrix",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 11,
+    "section": "a",
+    "type": "mcq",
+    "question": "Direction for Questions (11-13): Let p = tan 2α - tan α and q = cot α - cot 2α. What is (p/q) equal to?",
+    "image": null,
+    "options": [
+      "-tan α . tan 2α",
+      "-cot α . cot 2α",
+      "tan α . tan 2α",
+      "cot α . cot 2α"
+    ],
+    "correctanswer": "tan α . tan 2α",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 12,
+    "section": "a",
+    "type": "mcq",
+    "question": "Direction for Questions (11-13): Let p = tan 2α - tan α and q = cot α - cot 2α. What is (p + q) equal to?",
+    "image": null,
+    "options": ["sec 4α", "cosec 4α", "2sec 4α", "2cosec 4α"],
+    "correctanswer": "2cosec 4α",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 13,
+    "section": "a",
+    "type": "mcq",
+    "question": "Direction for Questions (11-13): Let p = tan 2α - tan α and q = cot α - cot 2α. What is tan² α equal to?",
+    "image": null,
+    "options": ["(pq)/(p+q)", "(p+2q)/p", "p/(p+2q)", "(2p+q)/p"],
+    "correctanswer": "(pq)/(p+q)",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 14,
+    "section": "a",
+    "type": "mcq",
+    "question": "Direction for Questions (14-15): Let 2sin α + cos α = 2, where 0 < α < 90°. What is tan α equal to?",
+    "image": null,
+    "options": ["1/2", "1", "3/4", "2"],
+    "correctanswer": "3/4",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 15,
+    "section": "a",
+    "type": "mcq",
+    "question": "Direction for Questions (14-15): Let 2sin α + cos α = 2, where 0 < α < 90°. What is 2 sin 2α + cos 2α equal to?",
+    "image": null,
+    "options": ["11/10", "11/5", "12/5", "13/5"],
+    "correctanswer": "11/5",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 16,
+    "section": "a",
+    "type": "mcq",
+    "question": "Direction for Questions (16-17): In a triangle ABC, two sides BC and CA are in the ratio 2 : 1, and their opposite corresponding angles are in the ratio 3 : 1. One of the angles of the triangle is",
+    "image": null,
+    "options": ["15°", "30°", "45°", "75°"],
+    "correctanswer": "30°",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 17,
+    "section": "a",
+    "type": "mcq",
+    "question": "Direction for Questions (16-17): In a triangle ABC, two sides BC and CA are in the ratio 2 : 1, and their opposite corresponding angles are in the ratio 3 : 1. Consider the following statements:\nI. The triangle is right-angled.\nII. One of the sides of the triangle is √3 times the other.\nIII. The angles A, C and B of the triangle are in AP.\nWhich of the statements given above is/are correct?",
+    "image": null,
+    "options": ["I only", "II and III only", "I and III only", "I, II and III"],
+    "correctanswer": "I, II and III",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 18,
+    "section": "a",
+    "type": "mcq",
+    "question": "A man at M standing 100 m away from the base (P) of a chimney of height 50 m. He observes the angle of elevation of the highest point (Q) of the smoke to be 45°. The highest point of the chimney is at R. Further P, R and Q are in a straight line and the straight line is perpendicular to PM. What is the angle RMQ equal to?",
+    "image": null,
+    "options": ["tan⁻¹(1/2)", "tan⁻¹(1/3)", "tan⁻¹(2/3)", "tan⁻¹(3/4)"],
+    "correctanswer": "tan⁻¹(1/3)",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 19,
+    "section": "a",
+    "type": "mcq",
+    "question": "If k is a root of x² - 4x + 1 = 0, then what is tan⁻¹ k + tan⁻¹(1/k) equal to?",
+    "image": null,
+    "options": ["-π/2", "0", "π/4", "π/2"],
+    "correctanswer": "π/2",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 20,
+    "section": "a",
+    "type": "mcq",
+    "question": "If tan⁻¹ k + tan⁻¹(1/2) = π/4, then what is k equal to?",
+    "image": null,
+    "options": ["1", "1/2", "1/3", "1/4"],
+    "correctanswer": "1/3",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 21,
+    "section": "a",
+    "type": "mcq",
+    "question": "If a line in 3 dimensions makes angles α, β and γ with the positive directions of the coordinate axes, then what is cos(α + β) cos(α - β) equal to?",
+    "image": null,
+    "options": ["cos² γ", "-cos² γ", "sin² γ", "-sin² γ"],
+    "correctanswer": "-sin² γ",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 22,
+    "section": "a",
+    "type": "mcq",
+    "question": "A(1, 2, -1), B(2, 5, -2) and C(4, 4, -3) are three vertices of a rectangle. What is the area of the rectangle?",
+    "image": null,
+    "options": [
+      "8 square units",
+      "9 square units",
+      "√66 square units",
+      "√68 square units"
+    ],
+    "correctanswer": "√66 square units",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 23,
+    "section": "a",
+    "type": "mcq",
+    "question": "ABC is a triangle right-angled at B. If A(k, 1, -1), B(2k, 0, 2) and C(2 + 2k, k, 1) are the vertices of the triangle, then what is the value of k?",
+    "image": null,
+    "options": ["-3", "-1", "1", "3"],
+    "correctanswer": "1",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 24,
+    "section": "a",
+    "type": "mcq",
+    "question": "If a line (x+1)/p = (y-1)/q = (z-2)/r where p = 2q = 3r makes an angle θ with the positive direction of the y-axis then what is cos 2θ equal to?",
+    "image": null,
+    "options": ["-31/49", "-37/49", "31/49", "37/49"],
+    "correctanswer": "-31/49",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 25,
+    "section": "a",
+    "type": "mcq",
+    "question": "What is the equation of the plane passing through the point (1, 1, 1) and perpendicular to the line whose direction ratio is (3, 2, 1)?",
+    "image": null,
+    "options": [
+      "x + 2y + 3z = 6",
+      "3x + 2y + z = 6",
+      "x + y + z = 3",
+      "3x + 2y + z = 0"
+    ],
+    "correctanswer": "3x + 2y + z = 6",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 26,
+    "section": "a",
+    "type": "mcq",
+    "question": "A line makes angles α, β and γ with the positive directions of the coordinate axes. If a = (sin² α)i + (sin² β)j + (sin² γ)k and b = i + j + k then what is a.b equal to?",
+    "image": null,
+    "options": ["-2", "-1", "1", "2"],
+    "correctanswer": "2",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 27,
+    "section": "a",
+    "type": "mcq",
+    "question": "Consider the following statements with respect to a vector d = (a x b) x c:\nI. d is coplanar with a and b\nII. d is perpendicular to c\nWhich of the statements given above is/are correct?",
+    "image": null,
+    "options": ["I only", "II only", "Both I and II", "Neither I nor II"],
+    "correctanswer": "Both I and II",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 28,
+    "section": "a",
+    "type": "mcq",
+    "question": "The position vectors of three points A, B and C are a, b and c, respectively, such that 3a - 4b + c = 0. What is AB : BC equal to?",
+    "image": null,
+    "options": ["3:1", "1:3", "3:4", "1:4"],
+    "correctanswer": "1:3",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 29,
+    "section": "a",
+    "type": "mcq",
+    "question": "The position vectors of three points A, B and C are a, b and c respectively, where c = (cos² θ)a + (sin² θ)b. What is (a x b) + (b x c) + (c x a) equal to?",
+    "image": null,
+    "options": ["0", "2c", "3c", "unit vector"],
+    "correctanswer": "0",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  },
+  {
+    "id": 30,
+    "section": "a",
+    "type": "mcq",
+    "question": "Let a, b and (a x b) be unit vectors. What is (a.b) equal to?",
+    "image": null,
+    "options": ["0", "1/2", "1", "3"],
+    "correctanswer": "0",
+    "marks": 2.5,
+    "negativemarks": 0.833
+  }
+]

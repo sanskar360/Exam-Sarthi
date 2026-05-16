@@ -1,0 +1,2552 @@
+[
+  {
+    "id": 1,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "What is the effect of humidity on sound waves when humidity increases?",
+    "image": null,
+    "options": [
+      "Speed of sound waves is more",
+      "Speed of sound waves is less",
+      "Speed of sound waves remains same",
+      "Speed of sound waves becomes zero"
+    ],
+    "correctAnswer": "Speed of sound waves is more",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 2,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "If α, β and γ are coefficient of linear, area and volume expansion respectively, then",
+    "image": null,
+    "options": [
+      "γ = 3α",
+      "α = 3γ",
+      "β = 3α",
+      "γ = 3β"
+    ],
+    "correctAnswer": "γ = 3α",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 3,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A liquid is filled upto a height of 20 cm in a cylindrical vessel. The speed of liquid coming out of a small hole at the bottom of the vessel is (g = 10 ms⁻²)",
+    "image": null,
+    "options": [
+      "1.2 ms⁻¹",
+      "1 ms⁻¹",
+      "2 ms⁻¹",
+      "3.2 ms⁻¹"
+    ],
+    "correctAnswer": "2 ms⁻¹",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 4,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "For a perfect gas, two pressures P₁ and P₂ are shown in figure (V-T graph). The graph shows:",
+    "image": null,
+    "options": [
+      "P₁ > P₂",
+      "P₁ < P₂",
+      "P₁ = P₂",
+      "Insufficient data to draw any conclusion"
+    ],
+    "correctAnswer": "P₁ > P₂",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 5,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A body of mass 2 kg moving with a speed of 4 m/s makes an elastic collision with another body at rest and continues to move in the original direction but with one fourth of its initial speed. The speed of the two body centre of mass is",
+    "image": null,
+    "options": [
+      "2.5 m/s",
+      "5 m/s",
+      "7.5 m/s",
+      "10 m/s"
+    ],
+    "correctAnswer": "2.5 m/s",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 6,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "According to law of equipartition of energy the molar specific heat of a diatomic gas at constant volume where the molecule has one additional vibrational mode is:",
+    "image": null,
+    "options": [
+      "9/2 R",
+      "5/2 R",
+      "3/2 R",
+      "7/2 R"
+    ],
+    "correctAnswer": "7/2 R",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 7,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "As shown in the figure, a metallic rod of linear density 0.45 kg m⁻¹ is lying horizontally on a smooth incline plane which makes an angle of 45° with the horizontal. The minimum current flowing in the rod required to keep it stationary, when 0.15 T magnetic field is acting on it in the vertical upward direction, will be: {Use g = 10 m/s²}",
+    "image": null,
+    "options": [
+      "30 A",
+      "15 A",
+      "10 A",
+      "3 A"
+    ],
+    "correctAnswer": "30 A",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 8,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A sphere of radius R carries charge density ρ proportional to the square of the distance (r) from the centre such that ρ = Cr², where C is a positive constant. At a distance R/2 from the centre, the magnitude of the electric field is",
+    "image": null,
+    "options": [
+      "CR³ / (20ε₀)",
+      "CR³ / (10ε₀)",
+      "CR³ / (5ε₀)",
+      "None of these"
+    ],
+    "correctAnswer": "None of these",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 9,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Two point charges −q and +q are placed at a distance of L. The magnitude of electric field intensity at a distance R (R >> L) varies as:",
+    "image": null,
+    "options": [
+      "1/R³",
+      "1/R⁴",
+      "1/R⁶",
+      "1/R²"
+    ],
+    "correctAnswer": "1/R³",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 10,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "The work done in increasing the size of a soap film from 10 cm × 6 cm to 10 cm × 11 cm is 3 × 10⁻⁴ J. The surface tension of the film is",
+    "image": null,
+    "options": [
+      "11 × 10⁻² N/m",
+      "6 × 10⁻² N/m",
+      "3 × 10⁻² N/m",
+      "1.5 × 10⁻² N/m"
+    ],
+    "correctAnswer": "3 × 10⁻² N/m",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 11,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A sample of gas expands from volume V₁ to V₂. The amount of work done by the gas is greatest when the expansion is",
+    "image": null,
+    "options": [
+      "isothermal",
+      "isobaric",
+      "adiabatic",
+      "equal in all cases"
+    ],
+    "correctAnswer": "isothermal",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 12,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "The figure below shows currents in a part of electric circuit. The current i is",
+    "image": null,
+    "options": [
+      "1.7 amp",
+      "3.7 amp",
+      "1.3 amp",
+      "1 amp"
+    ],
+    "correctAnswer": "1.7 amp",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 13,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Two discs of moment of inertia I₁ and I₂ and angular speeds ω₁ and ω₂ are rotating along collinear axes passing through their centre of mass and perpendicular to their plane. If the two are made to rotate combinedly along the same axis the rotational KE of system will be",
+    "image": null,
+    "options": [
+      "(I₁ω₁ + I₂ω₂) / 2(I₁ + I₂)",
+      "(I₁ + I₂)(ω₁ + ω₂)² / 2",
+      "(I₁ω₁ + I₂ω₂)² / 2(I₁ + I₂)",
+      "None of these"
+    ],
+    "correctAnswer": "(I₁ω₁ + I₂ω₂)² / 2(I₁ + I₂)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 14,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "If a current is passed in a spring, it",
+    "image": null,
+    "options": [
+      "gets compressed",
+      "gets expanded",
+      "oscillates",
+      "remains unchanged"
+    ],
+    "correctAnswer": "gets compressed",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 15,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A long solenoid carrying a current produces a magnetic field B along its axis. If the current is doubled and the number of turns per cm is halved, the new value of magnetic field will be equal to",
+    "image": null,
+    "options": [
+      "B",
+      "2B",
+      "4B",
+      "B/2"
+    ],
+    "correctAnswer": "B",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 16,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Hail stroms are observed to strike the surface of the frozen lake at 30° with the vertical and rebound at 60° with the vertical. Assume contact to be smooth, the coefficient of restitution is:",
+    "image": null,
+    "options": [
+      "e = 1/√3",
+      "e = 1/3",
+      "e = √3",
+      "e = 3"
+    ],
+    "correctAnswer": "e = 1/3",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 17,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Following figure shows two processes A and B for a gas. If ΔQ_A and ΔQ_B are the amount of heat absorbed by the system in two cases, and ΔU_A and ΔU_B are changes in internal energies, respectively, then:",
+    "image": null,
+    "options": [
+      "ΔQ_A < ΔQ_B, ΔU_A < ΔU_B",
+      "ΔQ_A > ΔQ_B, ΔU_A > ΔU_B",
+      "ΔQ_A > ΔQ_B, ΔU_A = ΔU_B",
+      "ΔQ_A = ΔQ_B; ΔU_A = ΔU_B"
+    ],
+    "correctAnswer": "ΔQ_A > ΔQ_B, ΔU_A = ΔU_B",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 18,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Two identical coils each of self-inductance L, are connected in series and are placed so close to each other that all the flux from one coil links with the other. The total self-inductance of the system is:",
+    "image": null,
+    "options": [
+      "L",
+      "2L",
+      "3L",
+      "4L"
+    ],
+    "correctAnswer": "4L",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 19,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "In a moving coil galvanometer, the deflection of the coil θ is related to the electrical current i by the relation",
+    "image": null,
+    "options": [
+      "i ∝ tan θ",
+      "i ∝ θ",
+      "i ∝ θ²",
+      "i ∝ √θ"
+    ],
+    "correctAnswer": "i ∝ θ",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 20,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Metals getting magnetised by orientation of atomic magnetic moments in external magnetic field are called",
+    "image": null,
+    "options": [
+      "diamagnetic",
+      "paramagnetic",
+      "ferromagnetic",
+      "antimagnetic"
+    ],
+    "correctAnswer": "paramagnetic",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 21,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A step up transformer operates on a 230 V line and supplies a current of 2 ampere. The ratio of primary and secondary winding is 1:25. The current in primary is",
+    "image": null,
+    "options": [
+      "25 A",
+      "50 A",
+      "15 A",
+      "12.5 A"
+    ],
+    "correctAnswer": "50 A",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 22,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "The four arms of a Wheatstone bridge have resistances as shown in the figure. A galvanometer of 15Ω resistance is connected across BD. Calculate the current through the galvanometer when a potential difference of 10 V is maintained across AC. (Arms: AB=100Ω, BC=10Ω, AD=60Ω, DC=5Ω)",
+    "image": null,
+    "options": [
+      "2.44 μA",
+      "4.87 μA",
+      "2.44 mA",
+      "4.87 mA"
+    ],
+    "correctAnswer": "4.87 mA",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 23,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "The net impedance of circuit (as shown in figure: L = 50/π mH, C = 10³/π μF, R = 10Ω, supply = 220V, 50Hz) will be",
+    "image": null,
+    "options": [
+      "10√2 Ω",
+      "15 Ω",
+      "5√5 Ω",
+      "25 Ω"
+    ],
+    "correctAnswer": "5√5 Ω",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 24,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Two conducting circular loops of radii R₁ and R₂ are placed in the same plane with their centres coinciding. If R₁ >> R₂, the mutual inductance M between them will be directly proportional to",
+    "image": null,
+    "options": [
+      "R₂² / R₁",
+      "R₁ / R₂",
+      "R₂ / R₁",
+      "R₁² / R₂"
+    ],
+    "correctAnswer": "R₂² / R₁",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 25,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "In a circuit, L, C and R are connected in series with an alternating voltage source of frequency f. The current leads the voltage by 45°. The value of C is",
+    "image": null,
+    "options": [
+      "1 / πf(2πfL − R)",
+      "1 / 2πf(2πfL − R)",
+      "1 / πf(2πfL + R)",
+      "1 / 2πf(2πfL + R)"
+    ],
+    "correctAnswer": "1 / 2πf(2πfL + R)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 26,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "If a thin prism of glass is dipped in water then minimum deviation of light produced by prism will be (given ₐμg = 3/2, ₐμw = 4/3)",
+    "image": null,
+    "options": [
+      "1/5",
+      "1/8",
+      "1/2",
+      "1/3"
+    ],
+    "correctAnswer": "1/8",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 27,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A liquid does not wet the solid surface if angle of contact is",
+    "image": null,
+    "options": [
+      "zero",
+      "equal to 45°",
+      "equal to 60°",
+      "greater than 90°"
+    ],
+    "correctAnswer": "greater than 90°",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 28,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "In the double slit experiment, the monochromatic source is shifted to a position S' at an angle φ above SQ. The position of central bright fringe will be",
+    "image": null,
+    "options": [
+      "at O'",
+      "at O",
+      "at O''",
+      "at P"
+    ],
+    "correctAnswer": "at O''",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 29,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "If the radius of a nucleus ²⁵⁶X is 8 fermi, then the radius of ⁴He nucleus will be",
+    "image": null,
+    "options": [
+      "16 fermi",
+      "2 fermi",
+      "32 fermi",
+      "4 fermi"
+    ],
+    "correctAnswer": "2 fermi",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 30,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Four identical solid spheres each of mass 'm' and radius 'a' are placed with their centres on the four corners of a square of side 'b'. The moment of inertia of the system about one side of square where the axis of rotation is parallel to the plane of the square is:",
+    "image": null,
+    "options": [
+      "4/5 ma²",
+      "8/5 ma² + mb²",
+      "8/5 ma² + 2mb²",
+      "4/5 ma² + 2mb²"
+    ],
+    "correctAnswer": "8/5 ma² + 2mb²",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 31,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Two sources of light emit X-rays of wavelength 1 nm and visible light of wavelength 500 nm, respectively. Both the sources emit light of the same power 200 W. The ratio of the number density of photons of X-rays to the number density of photons of the visible light of the given wavelengths is:",
+    "image": null,
+    "options": [
+      "1/500",
+      "250",
+      "1/250",
+      "500"
+    ],
+    "correctAnswer": "1/500",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 32,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "The capacitance of a parallel plate capacitor with air as medium is 6 μF. With the introduction of a dielectric medium, the capacitance becomes 30 μF. The permittivity of the medium is: (ε₀ = 8.85 × 10⁻¹² C² N⁻¹ m⁻²)",
+    "image": null,
+    "options": [
+      "1.77 × 10⁻¹² C² N⁻¹ m⁻²",
+      "0.44 × 10⁻¹⁰ C² N⁻¹ m⁻²",
+      "5.00 C² N⁻¹ m⁻²",
+      "0.44 × 10⁻¹³ C² N⁻¹ m⁻²"
+    ],
+    "correctAnswer": "0.44 × 10⁻¹⁰ C² N⁻¹ m⁻²",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 33,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Sodium and copper have work functions 2.3 eV and 4.5 eV respectively. Then the ratio of the wavelengths is nearest to",
+    "image": null,
+    "options": [
+      "1 : 2",
+      "4 : 1",
+      "2 : 1",
+      "1 : 4"
+    ],
+    "correctAnswer": "2 : 1",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 34,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "When the number of nucleons in nuclei increases, the binding energy per nucleon",
+    "image": null,
+    "options": [
+      "increases continuously with mass number",
+      "decreases continuously with mass number",
+      "remains constant with mass number",
+      "first increases and then decreases with increase of mass number"
+    ],
+    "correctAnswer": "first increases and then decreases with increase of mass number",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 35,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Three capacitors 2 μF, 3 μF and 6 μF are joined in series with each other. The equivalent capacitance is-",
+    "image": null,
+    "options": [
+      "1/2 μF",
+      "1 μF",
+      "2 μF",
+      "11 μF"
+    ],
+    "correctAnswer": "1 μF",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 36,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "The energy levels of a hydrogen atom are shown. The transition corresponding to emission of shortest wavelength is (levels: n=4, n=3, n=2, n=1 with transitions A, B, C, D labeled)",
+    "image": null,
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "correctAnswer": "D",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 37,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A logic gate circuit has two inputs A and B and output Y. The voltage waveforms of A, B and Y are shown. The logic gate circuit is",
+    "image": null,
+    "options": [
+      "AND gate",
+      "OR gate",
+      "NOR gate",
+      "NAND gate"
+    ],
+    "correctAnswer": "OR gate",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 38,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "The ratio of frequencies of fundamental harmonic produced by an open pipe to that of closed pipe having the same length is",
+    "image": null,
+    "options": [
+      "1 : 2",
+      "2 : 1",
+      "1 : 3",
+      "3 : 1"
+    ],
+    "correctAnswer": "2 : 1",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 39,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Consider the following statements and select the correct option. (i) The ratio of Cₚ/Cᵥ for a diatomic gas is more than that of a monoatomic gas. (ii) The ratio of Cₚ/Cᵥ is more for helium gas than for hydrogen",
+    "image": null,
+    "options": [
+      "(i) only",
+      "(ii) only",
+      "(i) and (ii)",
+      "None of these"
+    ],
+    "correctAnswer": "(ii) only",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 40,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "In an unbiased p-n junction electrons diffuse from n-region to p-region because:",
+    "image": null,
+    "options": [
+      "holes in p-region attract them",
+      "electrons travel across the junction due to potential difference",
+      "electron concentration in n-region is more compared to that in p-region",
+      "none of these"
+    ],
+    "correctAnswer": "electron concentration in n-region is more compared to that in p-region",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 41,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A particle is travelling 4 times as fast as an electron. Assuming the ratio of de-Broglie wavelength of a particle to that of electron is 2:1, the mass of the particle is",
+    "image": null,
+    "options": [
+      "16 times the mass of e⁻",
+      "8 times the mass of e⁻",
+      "1/16 times the mass of e⁻",
+      "1/8 times the mass of e⁻"
+    ],
+    "correctAnswer": "1/8 times the mass of e⁻",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 42,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Consider a Young's double slit experiment as shown in figure. What should be the slit separation d in terms of wavelength λ such that the first minima occurs directly in front of the slit (S₁)? (Screen is at distance 2d from slits)",
+    "image": null,
+    "options": [
+      "λ / 2(√5 − 2)",
+      "λ / (√5 − 2)",
+      "λ / 2(5 − √2)",
+      "λ / (5 − √2)"
+    ],
+    "correctAnswer": "λ / 2(√5 − 2)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 43,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A simple pendulum performs SHM about x = 0 with an amplitude a and time period T. What is the speed of the pendulum at x = a/2?",
+    "image": null,
+    "options": [
+      "aπ√3 / T",
+      "a²π²√3 / T²",
+      "a / T",
+      "aπ / T"
+    ],
+    "correctAnswer": "aπ√3 / T",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 44,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "An astronomical telescope has a magnifying power 10, the focal length of the eyepiece is 20 cm. The focal length of the objective is",
+    "image": null,
+    "options": [
+      "1/200 cm",
+      "1/2 cm",
+      "200 cm",
+      "2 cm"
+    ],
+    "correctAnswer": "200 cm",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 45,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Find the torque about the origin when a force of 3ĵ N acts on a particle whose position vector is 2k̂ m.",
+    "image": null,
+    "options": [
+      "6ĵ Nm",
+      "−6î Nm",
+      "6k̂ Nm",
+      "6î Nm"
+    ],
+    "correctAnswer": "−6î Nm",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 46,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A planet of mass m moves around the sun of mass M in an elliptical orbit. The maximum and minimum distance of the planet from the sun are r₁ and r₂ respectively. The time period of planet is proportional to",
+    "image": null,
+    "options": [
+      "r₁²/⁵",
+      "((r₁ + r₂)/2)^(3/2)",
+      "((r₁ − r₂)/2)^(3/2)",
+      "r^(3/2)"
+    ],
+    "correctAnswer": "((r₁ + r₂)/2)^(3/2)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 47,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Consider a planet in some solar system which has a mass double the mass of earth and density equal to the average density of earth. If the weight of an object on earth is W, the weight of the same object on that planet will be",
+    "image": null,
+    "options": [
+      "2W",
+      "W",
+      "1/(2^(1/3)) W",
+      "2^(1/3) W"
+    ],
+    "correctAnswer": "2^(1/3) W",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 48,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "A bucket tied at the end of a 1.6 m long string is whirled in a vertical circle with constant speed. What should be the minimum speed so that the water from the bucket does not spill when the bucket is at the highest position?",
+    "image": null,
+    "options": [
+      "4 m/sec",
+      "6.25 m/sec",
+      "16 m/sec",
+      "None of these"
+    ],
+    "correctAnswer": "4 m/sec",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 49,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "The minimum velocity (in ms⁻¹) with which a car driver must traverse a flat curve of radius 150 m and coefficient of friction 0.6 to avoid skidding is",
+    "image": null,
+    "options": [
+      "60",
+      "30",
+      "15",
+      "25"
+    ],
+    "correctAnswer": "30",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 50,
+    "section": "A",
+    "subject": "Physics",
+    "type": "mcq",
+    "question": "Mean free path of a gas molecule is",
+    "image": null,
+    "options": [
+      "inversely proportional to number of molecules per unit volume",
+      "inversely proportional to diameter of the molecule",
+      "directly proportional to the square root of the absolute temperature",
+      "directly proportional to the molecular mass"
+    ],
+    "correctAnswer": "inversely proportional to number of molecules per unit volume",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 51,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Identify the species having one π-bond and maximum number of canonical forms from the following:",
+    "image": null,
+    "options": [
+      "SO₃",
+      "O₂",
+      "SO₂",
+      "CO₃²⁻"
+    ],
+    "correctAnswer": "CO₃²⁻",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 52,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The shortest wavelength of hydrogen atom in Lyman series is λ. The longest wavelength in Balmer series of He⁺ is",
+    "image": null,
+    "options": [
+      "5λ / 9",
+      "9λ / 5",
+      "36λ / 5",
+      "5λ / 9"
+    ],
+    "correctAnswer": "9λ / 5",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 53,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Number of atoms in the following samples of substances is the largest in:",
+    "image": null,
+    "options": [
+      "4.0 g of hydrogen",
+      "71.0 g of chlorine",
+      "127.0 g of iodine",
+      "48.0 g of magnesium"
+    ],
+    "correctAnswer": "4.0 g of hydrogen",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 54,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "van der Waals equation for a gas is stated as P = nRT/(V − nb) − a(n/V)². This equation reduces to the perfect gas equation P = nRT/V when,",
+    "image": null,
+    "options": [
+      "temperature is sufficient high and pressure is low",
+      "temperature is sufficient low and pressure is high",
+      "both temperature and pressure are very high",
+      "both temperature and pressure are very low"
+    ],
+    "correctAnswer": "temperature is sufficient high and pressure is low",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 55,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Copper crystallises in fcc with a unit length of 361 pm. What is the radius of copper atom?",
+    "image": null,
+    "options": [
+      "157 pm",
+      "128 pm",
+      "108 pm",
+      "181 pm"
+    ],
+    "correctAnswer": "128 pm",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 56,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "For an ideal solution of two components A and B, which of the following is true?",
+    "image": null,
+    "options": [
+      "ΔH_mixing < 0 (zero)",
+      "ΔH_mixing > 0 (zero)",
+      "A − B interaction is stronger than A − A and B − B interactions",
+      "A−A, B−B and A−B interactions are identical"
+    ],
+    "correctAnswer": "A−A, B−B and A−B interactions are identical",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 57,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Correct order of limiting molar conductivity for cations in water at 298 K is:",
+    "image": null,
+    "options": [
+      "H⁺ > Na⁺ > K⁺ > Ca²⁺ > Mg²⁺",
+      "H⁺ > Ca²⁺ > Mg²⁺ > K⁺ > Na⁺",
+      "Mg²⁺ > H⁺ > Ca²⁺ > K⁺ > Na⁺",
+      "H⁺ > Na⁺ > Ca²⁺ > Mg²⁺ > K⁺"
+    ],
+    "correctAnswer": "H⁺ > Ca²⁺ > Mg²⁺ > K⁺ > Na⁺",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 58,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The statement that is NOT true about ozone is:",
+    "image": null,
+    "options": [
+      "in the stratosphere, CFCs release chlorine free radicals (Ċl) which reacts with O₃ to give chlorine dioxide radicals",
+      "in the atmosphere, it is depleted by CFCs",
+      "in the stratosphere, it forms a protective shield against UV radiation",
+      "it is a toxic gas and its reaction with NO gives NO₂"
+    ],
+    "correctAnswer": "in the stratosphere, CFCs release chlorine free radicals (Ċl) which reacts with O₃ to give chlorine dioxide radicals",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 59,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The density of 'x' M solution ('x' molar) of NaOH is 1.12 g mL⁻¹, while in molality, the concentration of the solution is 3 m (3 molal). Then x is (Given: Molar mass of NaOH is 40 g/mol)",
+    "image": null,
+    "options": [
+      "3.5",
+      "3.0",
+      "3.8",
+      "2.8"
+    ],
+    "correctAnswer": "3.0",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 60,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Identify the correct trend given below: (Atomic No. = Ti: 22, Cr: 24 and Mo: 42)",
+    "image": null,
+    "options": [
+      "Δ₀ of [Cr(H₂O)₆]²⁺ > [Mo(H₂O)₆]²⁺ and Δ₀ of [Ti(H₂O)₆]³⁺ > [Ti(H₂O)₆]²⁺",
+      "Δ₀ of [Cr(H₂O)₆]²⁺ > [Mo(H₂O)₆]²⁺ and Δ₀ of [Ti(H₂O)₆]³⁺ < [Ti(H₂O)₆]²⁺",
+      "Δ₀ of [Cr(H₂O)₆]²⁺ < [Mo(H₂O)₆]²⁺ and Δ₀ of [Ti(H₂O)₆]³⁺ > [Ti(H₂O)₆]²⁺",
+      "Δ₀ of [Cr(H₂O)₆]²⁺ < [Mo(H₂O)₆]²⁺ and Δ₀ of [Ti(H₂O)₆]³⁺ < [Ti(H₂O)₆]²⁺"
+    ],
+    "correctAnswer": "Δ₀ of [Cr(H₂O)₆]²⁺ < [Mo(H₂O)₆]²⁺ and Δ₀ of [Ti(H₂O)₆]³⁺ > [Ti(H₂O)₆]²⁺",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 61,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Halogenation of which one of the following will yield m-substituted product with respect to methyl group as a major product?",
+    "image": null,
+    "options": [
+      "3-methylbenzaldehyde (CH₃ and CHO on benzene)",
+      "2-methyl-1-nitrobenzene (CH₃ and NO₂ on benzene)",
+      "3-methylphenol (CH₃ and OH on benzene)",
+      "4-methyl-1-nitrobenzene (CH₃ and NO₂ on benzene)"
+    ],
+    "correctAnswer": "2-methyl-1-nitrobenzene (CH₃ and NO₂ on benzene)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 62,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "An element crystallises in a face-centred cubic (fcc) unit cell with cell edge a. The distance between the centres of two nearest octahedral voids in the crystal lattice is:",
+    "image": null,
+    "options": [
+      "a/√2",
+      "a",
+      "√2a",
+      "a/2"
+    ],
+    "correctAnswer": "a/√2",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 63,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The correct order of stability of following carbocations: (A) Ph₃C⁺, (B) Ph₂CH⁺, (C) cyclopentadienyl cation, (D) H₃C−CH₂−ĊH−CH₃",
+    "image": null,
+    "options": [
+      "A > B > C > D",
+      "B > C > A > D",
+      "C > B > A > D",
+      "C > A > B > D"
+    ],
+    "correctAnswer": "C > A > B > D",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 64,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The correct order of bond orders of C₂²⁻, N₂²⁻ and O₂²⁻ is, respectively.",
+    "image": null,
+    "options": [
+      "C₂²⁻ < N₂²⁻ < O₂²⁻",
+      "O₂²⁻ < N₂²⁻ < C₂²⁻",
+      "C₂²⁻ < O₂²⁻ < N₂²⁻",
+      "N₂²⁻ < C₂²⁻ < O₂²⁻"
+    ],
+    "correctAnswer": "O₂²⁻ < N₂²⁻ < C₂²⁻",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 65,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Oxidation number of potassium in K₂O, K₂O₂ and KO₂, respectively, is:",
+    "image": null,
+    "options": [
+      "+2, +1 and +1/2",
+      "+1, +1 and +1",
+      "+1, +4 and +2",
+      "+1, +2 and +4"
+    ],
+    "correctAnswer": "+1, +1 and +1",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 66,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Sodium metal on dissolution in liquid ammonia gives a deep blue solution due to the formation of:",
+    "image": null,
+    "options": [
+      "sodium-ammonia complex",
+      "sodamide",
+      "sodium ion-ammonia complex",
+      "ammoniated electrons"
+    ],
+    "correctAnswer": "ammoniated electrons",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 67,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The emf of cell Tl | Tl⁺(0.001M) || Cu²⁺(0.01M) | Cu is 0.83 V at 298 K. It could be increased by:",
+    "image": null,
+    "options": [
+      "increasing concentration of Tl⁺ ions",
+      "increasing concentration of both Tl⁺ and Cu²⁺ ions",
+      "decreasing concentration of both Tl⁺ and Cu²⁺ ions",
+      "increasing concentration of Cu²⁺ ions"
+    ],
+    "correctAnswer": "increasing concentration of Cu²⁺ ions",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 68,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The reaction at cathode in the cells commonly used in clocks involves.",
+    "image": null,
+    "options": [
+      "reduction of Mn from +4 to +3",
+      "oxidation of Mn from +3 to +4",
+      "reduction of Mn from +7 to +2",
+      "oxidation of Mn from +2 to +7"
+    ],
+    "correctAnswer": "reduction of Mn from +4 to +3",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 69,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Which of the following complex is homoleptic?",
+    "image": null,
+    "options": [
+      "[Ni(CN)₄]²⁻",
+      "[Ni(NH₃)₂Cl₂]",
+      "[Fe(NH₃)₄Cl₂]⁺",
+      "[Co(NH₃)₄Cl₂]⁺"
+    ],
+    "correctAnswer": "[Ni(CN)₄]²⁻",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 70,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The complex that can show optical activity is:",
+    "image": null,
+    "options": [
+      "trans-[Cr(Cl)₂(ox)₂]³⁻",
+      "trans-[Fe(NH₃)₂(CN)₄]⁻",
+      "cis-[Fe(NH₃)₂(CN)₄]⁻",
+      "cis-[CrCl₂(ox)₂]³⁻ (ox = oxalate)"
+    ],
+    "correctAnswer": "cis-[CrCl₂(ox)₂]³⁻ (ox = oxalate)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 71,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "A solution of Ni(NO₃)₂ is electrolysed between platinum electrodes using 0.1 Faraday electricity. How many mole of Ni will be deposited at the cathode?",
+    "image": null,
+    "options": [
+      "0.05",
+      "0.20",
+      "0.15",
+      "0.10"
+    ],
+    "correctAnswer": "0.05",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 72,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "In a first order decomposition reaction, the time taken for the decomposition of reactant to one fourth and one eighth of its initial concentration are t₁ and t₂ (s), respectively. The ratio t₁/t₂ will be:",
+    "image": null,
+    "options": [
+      "4/3",
+      "3/2",
+      "3/4",
+      "2/3"
+    ],
+    "correctAnswer": "2/3",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 73,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The strongest reducing agent among the following is:",
+    "image": null,
+    "options": [
+      "SbH₃",
+      "NH₃",
+      "BiH₃",
+      "PH₃"
+    ],
+    "correctAnswer": "BiH₃",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 74,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "t₁/₄ can be taken as the time taken for the concentration of a reactant to drop to 3/4 of its initial value. If the rate constant for a first order reaction is k, the t₁/₄ can be written as",
+    "image": null,
+    "options": [
+      "0.75/k",
+      "0.69/k",
+      "0.29/k",
+      "0.10/k"
+    ],
+    "correctAnswer": "0.29/k",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 75,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Which among the following is the most reactive?",
+    "image": null,
+    "options": [
+      "I₂",
+      "ICl",
+      "Cl₂",
+      "Br₂"
+    ],
+    "correctAnswer": "ICl",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 76,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The structure of the major product formed in the reaction of 1-iodo-3-bromo-5-chlorobenzene (with CH₂Cl side chain) with AgCN is:",
+    "image": null,
+    "options": [
+      "Product with CN at the CH₂ position (nitrile)",
+      "Product with NC at the CH₂ position (isocyanide)",
+      "Product with CN replacing Br",
+      "Product with CN replacing I"
+    ],
+    "correctAnswer": "Product with NC at the CH₂ position (isocyanide)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 77,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Major product formed in the following reaction: cyclohexyl-O-C(CH₃)₃ reacting with HI → Major product is a mixture of:",
+    "image": null,
+    "options": [
+      "iodocyclohexane and (CH₃)₃Cl",
+      "iodocyclohexane and (CH₃)₃COH",
+      "cyclohexanol and (CH₃)₃COH",
+      "cyclohexanol and CH₃−C(CH₃)(I)−CH₃"
+    ],
+    "correctAnswer": "cyclohexanol and CH₃−C(CH₃)(I)−CH₃",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 78,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Which of the following reagents/reactions will convert compound A (4-methylenecyclohexane with H₃C group) to compound B (4-formylcyclohexane with H₃C group)?",
+    "image": null,
+    "options": [
+      "PCC oxidation",
+      "Ozonolysis",
+      "BH₃, H₂O₂/⁻OH followed by PCC oxidation",
+      "HBr, hydrolysis followed by oxidation by K₂Cr₂O₇"
+    ],
+    "correctAnswer": "BH₃, H₂O₂/⁻OH followed by PCC oxidation",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 79,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Which of the following salt solutions would coagulate the colloid solution formed when FeCl₃ is added to NaOH solution, at the fastest rate?",
+    "image": null,
+    "options": [
+      "10 mL of 0.2 mol dm⁻³ AlCl₃",
+      "10 mL of 0.1 mol dm⁻³ Na₂SO₄",
+      "10 mL of 0.1 mol dm⁻³ Ca₃(PO₄)₂",
+      "10 mL of 0.15 mol dm⁻³ CaCl₂"
+    ],
+    "correctAnswer": "10 mL of 0.2 mol dm⁻³ AlCl₃",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 80,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The enthalpy change for the adsorption process and micelle formation respectively are",
+    "image": null,
+    "options": [
+      "ΔH_ads < 0 and ΔH_mic > 0",
+      "ΔH_ads < 0 and ΔH_mic < 0",
+      "ΔH_ads > 0 and ΔH_mic < 0",
+      "ΔH_ads > 0 and ΔH_mic > 0"
+    ],
+    "correctAnswer": "ΔH_ads < 0 and ΔH_mic > 0",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 81,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Sugar moiety in DNA and RNA molecules respectively are",
+    "image": null,
+    "options": [
+      "β-D-2-deoxyribose, β-D-deoxyribose",
+      "β-D-2-deoxyribose, β-D-ribose",
+      "β-D-ribose, β-D-2-deoxyribose",
+      "β-D-deoxyribose, β-D-2-deoxyribose"
+    ],
+    "correctAnswer": "β-D-2-deoxyribose, β-D-ribose",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 82,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Which one of the following is NOT a copolymer?",
+    "image": null,
+    "options": [
+      "Buna-S",
+      "Neoprene",
+      "PHBV",
+      "Butadiene-styrene"
+    ],
+    "correctAnswer": "Neoprene",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 83,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Calamine and Malachite, respectively, are the ores of:",
+    "image": null,
+    "options": [
+      "Nickel and Aluminium",
+      "Zinc and Copper",
+      "Copper and Iron",
+      "Aluminium and Zinc"
+    ],
+    "correctAnswer": "Zinc and Copper",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 84,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Which of the following is used as a stabilizer during the concentration of sulphide ores?",
+    "image": null,
+    "options": [
+      "Pine oils",
+      "Xanthates",
+      "Fatty acids",
+      "Cresols"
+    ],
+    "correctAnswer": "Cresols",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 85,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Vulcanization of rubber is carried out by heating a mixture of:",
+    "image": null,
+    "options": [
+      "isoprene and styrene",
+      "neoprene and sulphur",
+      "isoprene and sulphur",
+      "neoprene and styrene"
+    ],
+    "correctAnswer": "isoprene and sulphur",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 86,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The reaction used for preparation of soap from fat is:",
+    "image": null,
+    "options": [
+      "reduction reaction",
+      "alkaline hydrolysis reaction",
+      "an addition reaction",
+      "an oxidation reaction"
+    ],
+    "correctAnswer": "alkaline hydrolysis reaction",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 87,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Which of the following electronic configuration would be associated with the highest magnetic moment?",
+    "image": null,
+    "options": [
+      "[Ar] 3d⁷",
+      "[Ar] 3d⁸",
+      "[Ar] 3d³",
+      "[Ar] 3d⁶"
+    ],
+    "correctAnswer": "[Ar] 3d⁶",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 88,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The most common oxidation state of Lanthanoid elements is +3. Which of the following is likely to deviate easily from +3 oxidation state?",
+    "image": null,
+    "options": [
+      "Ce (At. No. 58)",
+      "La (At. No. 57)",
+      "Lu (At. No. 71)",
+      "Gd (At. No. 64)"
+    ],
+    "correctAnswer": "Ce (At. No. 58)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 89,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The increasing order of the reactivity of the following halides for the Sₙ1 reaction is: (I) CH₃CHCH₂CH₃ with Cl, (II) CH₃CH₂CH₂Cl, (III) p-H₃CO-C₆H₄-CH₂Cl",
+    "image": null,
+    "options": [
+      "(III) < (II) < (I)",
+      "(II) < (I) < (III)",
+      "(I) < (III) < (II)",
+      "(II) < (III) < (I)"
+    ],
+    "correctAnswer": "(II) < (I) < (III)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 90,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The difference in the reaction of phenol with bromine in chloroform and bromine in water medium is due to:",
+    "image": null,
+    "options": [
+      "Hyperconjugation in substrate",
+      "Polarity of solvent",
+      "Free radical formation",
+      "Electromeric effect on the substrate"
+    ],
+    "correctAnswer": "Polarity of solvent",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 91,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Identify the major product in the following reaction: trans-2-bromocyclopentane with CH₃ group reacting with ⁻OH in C₂H₅OH → Major Product",
+    "image": null,
+    "options": [
+      "cyclopentene with CH₂ exocyclic",
+      "cyclopentene with Br",
+      "cyclopentene with CH₃",
+      "cyclopentane with CH₃"
+    ],
+    "correctAnswer": "cyclopentene with CH₃",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 92,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The increasing order of nitration of the following compounds: (A) aniline (NH₂), (B) chlorobenzene (Cl), (C) anisole (OCH₃), (D) toluene (CH₃)",
+    "image": null,
+    "options": [
+      "(A) < (B) < (D) < (C)",
+      "(A) < (B) < (C) < (D)",
+      "(B) < (A) < (C) < (D)",
+      "(B) < (A) < (D) < (C)"
+    ],
+    "correctAnswer": "(A) < (B) < (D) < (C)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 93,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "An element X has a body centred cubic (bcc) structure with a cell edge of 200 pm. The density of the element is 5 g cm⁻³. How many number of atoms present in 300 g of the element? (Given: Avogadro Constant, Nₐ = 6.0 × 10²³ mol⁻¹)",
+    "image": null,
+    "options": [
+      "5Nₐ",
+      "6Nₐ",
+      "15Nₐ",
+      "25Nₐ"
+    ],
+    "correctAnswer": "25Nₐ",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 94,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "2 moles each of ethylene glycol and glucose are dissolved in 500 g of water. The boiling point of the resulting solution is: (Given: Ebullioscopic constant of water = 0.52 K kg mol⁻¹)",
+    "image": null,
+    "options": [
+      "379.2 K",
+      "377.3 K",
+      "375.3 K",
+      "277.3 K"
+    ],
+    "correctAnswer": "377.3 K",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 95,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "When the given diketone (hept-1,6-dione) undergoes intramolecular aldol condensation, the major product formed is:",
+    "image": null,
+    "options": [
+      "cyclopentenyl methyl ketone (exocyclic double bond)",
+      "bicyclic product with H",
+      "cyclopentanone with exocyclic double bond",
+      "cyclohexanone"
+    ],
+    "correctAnswer": "cyclopentenyl methyl ketone (exocyclic double bond)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 96,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The major product of the following reaction: ethylbenzene (CH₂CH₃) treated with (i) alkaline KMnO₄, (ii) H₃O⁺ is:",
+    "image": null,
+    "options": [
+      "benzoic acid (COOH)",
+      "phenylacetaldehyde (CH₂CHO)",
+      "phenylacetic acid (CH₂COOH)",
+      "methyl phenyl ketone (COCH₃)"
+    ],
+    "correctAnswer": "benzoic acid (COOH)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 97,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "For 1 molal aqueous solution of the following compounds, which one will show the highest freezing point?",
+    "image": null,
+    "options": [
+      "[Co(H₂O)₆]Cl₃",
+      "[Co(H₂O)₅Cl]Cl₂.H₂O",
+      "[Co(H₂O)₄Cl₂]Cl.2H₂O",
+      "[Co(H₂O)₃Cl₃].3H₂O"
+    ],
+    "correctAnswer": "[Co(H₂O)₃Cl₃].3H₂O",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 98,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "The correct order in aqueous medium of basic strength in case of methyl substituted amines is:",
+    "image": null,
+    "options": [
+      "Me₂NH > MeNH₂ > Me₃N > NH₃",
+      "Me₂NH > Me₃N > MeNH₂ > NH₃",
+      "NH₃ > Me₃N > MeNH₂ > Me₂NH",
+      "Me₃N > Me₂NH > MeNH₂ > NH₃"
+    ],
+    "correctAnswer": "Me₂NH > MeNH₂ > Me₃N > NH₃",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 99,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Which of the following compounds is an example of hypnotic drug?",
+    "image": null,
+    "options": [
+      "Seldane",
+      "Amytal",
+      "Aspartame",
+      "Prontosil"
+    ],
+    "correctAnswer": "Amytal",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 100,
+    "section": "A",
+    "subject": "Chemistry",
+    "type": "mcq",
+    "question": "Which of the following is the correct structure of L-Glucose?",
+    "image": null,
+    "options": [
+      "CHO with HO on left, HO on left, HO on left, OH on right, CH₂OH",
+      "CHO with HO on left, OH on right, OH on right, HO on left, CH₂OH",
+      "CHO with HO on left, HO on left, OH on right, OH on right, CH₂OH",
+      "CHO with HO on left, HO on left, HO on left, HO on left, CH₂OH"
+    ],
+    "correctAnswer": "CHO with HO on left, HO on left, HO on left, OH on right, CH₂OH",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 101,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "In a triangle ABC, BC = 7, AC = 8, AB = α ∈ N and cos A = 2/3. If 49cos(3C) + 42 = m/n, where gcd(m, n) = 1, then m + n is equal to",
+    "image": null,
+    "options": [
+      "38",
+      "39",
+      "37",
+      "36"
+    ],
+    "correctAnswer": "39",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 102,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Let the equation x(x + 2)(12 − k) = 2 have equal roots. Then the distance of the point (k, k/2) from the line 3x + 4y + 5 = 0 is",
+    "image": null,
+    "options": [
+      "15",
+      "5√3",
+      "15√5",
+      "12"
+    ],
+    "correctAnswer": "15",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 103,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "A circle C of radius 2 lies in the second quadrant and touches both the coordinate axes. Let r be the radius of a circle that has centre at the point (2, 5) and intersects the circle C at exactly two points. If the set of all possible values of r is the interval (α, β), then 3β − 2α is equal to:",
+    "image": null,
+    "options": [
+      "15",
+      "225",
+      "14",
+      "196"
+    ],
+    "correctAnswer": "15",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 104,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Let the mean and the standard deviation of the observation 2, 3, 3, 4, 5, 7, a, b be 4 and √2 respectively. Then the mean deviation about the mode of these observations is:",
+    "image": null,
+    "options": [
+      "1",
+      "3/4",
+      "2",
+      "1/2"
+    ],
+    "correctAnswer": "1",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 105,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The probability, of forming a 12 persons committee from 4 engineers, 2 doctors and 10 professors containing at least 3 engineers and at least 1 doctor, is:",
+    "image": null,
+    "options": [
+      "129/182",
+      "103/182",
+      "17/26",
+      "19/26"
+    ],
+    "correctAnswer": "129/182",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 106,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "In how many ways can a bowler take four wickets in a single 6-ball over?",
+    "image": null,
+    "options": [
+      "6",
+      "15",
+      "20",
+      "30"
+    ],
+    "correctAnswer": "15",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 107,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Evaluate lim(x→0) x / (√(1+x) − √(1−x))",
+    "image": null,
+    "options": [
+      "1",
+      "2",
+      "−1",
+      "−2"
+    ],
+    "correctAnswer": "1",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 108,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The domain of the function f(x) = 1/√(9 − x²) is",
+    "image": null,
+    "options": [
+      "−3 ≤ x ≤ 3",
+      "−3 < x < 3",
+      "−9 ≤ x ≤ 9",
+      "−9 < x < 9"
+    ],
+    "correctAnswer": "−3 < x < 3",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 109,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The amplitude of sin(π/5) + i(1 − cos(π/5)) is",
+    "image": null,
+    "options": [
+      "π/5",
+      "2π/5",
+      "π/10",
+      "π/15"
+    ],
+    "correctAnswer": "π/10",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 110,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If f(x) = (√(4+x) − 2) / x, x ≠ 0 be continuous at x = 0, then f(0) =",
+    "image": null,
+    "options": [
+      "1/2",
+      "1/4",
+      "2",
+      "3/2"
+    ],
+    "correctAnswer": "1/4",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 111,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Let A = [[cos²θ, sinθcosθ],[cosθsinθ, sin²θ]] and B = [[cos²φ, sinφcosφ],[cosφsinφ, sin²φ]], then AB = O, if",
+    "image": null,
+    "options": [
+      "θ = nφ, n = 0, 1, 2, ......",
+      "θ + φ = nπ, n = 0, 1, 2, .....",
+      "θ = φ + (2n+1)π/2, n = 0, 1, 2, ...",
+      "θ = φ + nπ/2, n = 0, 1, 2, ..."
+    ],
+    "correctAnswer": "θ = φ + (2n+1)π/2, n = 0, 1, 2, ...",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 112,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If A is a square matrix of order 3, then |Adj.A| =",
+    "image": null,
+    "options": [
+      "|A|⁻¹",
+      "|A|",
+      "|A|³",
+      "|A|²"
+    ],
+    "correctAnswer": "|A|²",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 113,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "For A = [[3, 1],[-1, 2]], then 14A⁻¹ is given by:",
+    "image": null,
+    "options": [
+      "14[[2, -1],[1, 3]]",
+      "[[4, -2],[2, 6]]",
+      "2[[2, -1],[1, -3]]",
+      "2[[-3, -1],[1, -2]]"
+    ],
+    "correctAnswer": "[[4, -2],[2, 6]]",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 114,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "∫ (sin²x − cos²x) / (sin²x cos²x) dx =",
+    "image": null,
+    "options": [
+      "tan x + cot x + c",
+      "cosec x + sec x + c",
+      "tan x + sec x + c",
+      "tan x + cosec x + c"
+    ],
+    "correctAnswer": "tan x + cot x + c",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 115,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "∫ eˣ(1+x) / cos²(eˣx) dx equals",
+    "image": null,
+    "options": [
+      "−cot(eˣx) + C",
+      "tan(xeˣ) + C",
+      "tan(eˣ) + C",
+      "cot(eˣ) + C"
+    ],
+    "correctAnswer": "tan(xeˣ) + C",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 116,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "∫(from 1/4 to 1/2) dx / √(x − x²) is equal to:",
+    "image": null,
+    "options": [
+      "π/6",
+      "π/3",
+      "π/4",
+      "0"
+    ],
+    "correctAnswer": "π/6",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 117,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The value of the integral ∫(from −π/4 to π/4) (x + π/4) / (2 − cos 2x) dx is:",
+    "image": null,
+    "options": [
+      "π²/(6√3)",
+      "π²/6",
+      "π²/(12√3)",
+      "π²/(3√3)"
+    ],
+    "correctAnswer": "π²/(6√3)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 118,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If two straight lines whose direction cosines are given by the relations l + m − n = 0, 3l² + m² + cnl = 0 are parallel, then the positive value of c is:",
+    "image": null,
+    "options": [
+      "6",
+      "4",
+      "3",
+      "2"
+    ],
+    "correctAnswer": "6",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 119,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If the two lines l₁: (x−2)/3 = (y+1)/(−2), z = 2 and l₂: (x−1)/1 = (2y+3)/α = (z+5)/2 perpendicular, then an angle between the lines l₂ and l₃: (1−x)/3 = (2y−1)/(−4) = z/4 is:",
+    "image": null,
+    "options": [
+      "cos⁻¹(29/4)",
+      "sec⁻¹(29/4)",
+      "cos⁻¹(2/29)",
+      "cos⁻¹(2/√29)"
+    ],
+    "correctAnswer": "sec⁻¹(29/4)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 120,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If the plane x − 3y + 5z = d passes through the point (1, 2, 4), then the length of intercepts cut by it on the axes of X, Y, Z are respectively,",
+    "image": null,
+    "options": [
+      "15, −5, 3",
+      "1, −5, 3",
+      "−15, 5, −3",
+      "1, −6, 20"
+    ],
+    "correctAnswer": "15, −5, 3",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 121,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The maximum value of P = x + 3y such that 2x + y ≤ 20, x + 2y ≤ 20, x ≥ 0, y ≥ 0 is",
+    "image": null,
+    "options": [
+      "10",
+      "60",
+      "30",
+      "None"
+    ],
+    "correctAnswer": "None",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 122,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Corner points of feasible region of inequalities gives",
+    "image": null,
+    "options": [
+      "optimal solution of L.P.P.",
+      "objective function",
+      "constraints",
+      "linear assumption"
+    ],
+    "correctAnswer": "optimal solution of L.P.P.",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 123,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If P(A) = 1/2, P(B) = 0, then P(A/B) is",
+    "image": null,
+    "options": [
+      "0",
+      "1/2",
+      "not defined",
+      "1"
+    ],
+    "correctAnswer": "not defined",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 124,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Under what condition do ⟨1/√2, 1/2, k⟩ represent direction cosines of a line?",
+    "image": null,
+    "options": [
+      "k = 1/2",
+      "k = −1/2",
+      "k = ±1/2",
+      "k can take any value"
+    ],
+    "correctAnswer": "k = ±1/2",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 125,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The lines x = ay + b, z = cy + d and x = a'y + b', z = c'y + d' are perpendicular if",
+    "image": null,
+    "options": [
+      "aa' + bb' + cc' + 1 = 0",
+      "aa' + bb' + 1 = 0",
+      "bb' + cc' + 1 = 0",
+      "aa' + cc' + 1 = 0"
+    ],
+    "correctAnswer": "aa' + cc' + 1 = 0",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 126,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Let X be a binomially distributed random variable with mean 4 and variance 4/3. Then 54 P(X ≤ 2) is equal to",
+    "image": null,
+    "options": [
+      "73/27",
+      "146/27",
+      "146/81",
+      "126/81"
+    ],
+    "correctAnswer": "146/27",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 127,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The mean and variance of a random variable X having binomial distribution are 4 and 2 respectively, then P(X = 1) is",
+    "image": null,
+    "options": [
+      "1/4",
+      "1/32",
+      "1/16",
+      "1/8"
+    ],
+    "correctAnswer": "1/32",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 128,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Four fair dice are thrown independently 27 times. Then the expected number of times, at least two dice show up a three or a five, is",
+    "image": null,
+    "options": [
+      "1",
+      "3",
+      "11",
+      "7"
+    ],
+    "correctAnswer": "11",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 129,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The area bounded by the curve y = (3/2)√x, the line x = 1 and x-axis is ______ sq. units.",
+    "image": null,
+    "options": [
+      "2",
+      "1",
+      "6",
+      "None"
+    ],
+    "correctAnswer": "1",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 130,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The area bounded by y − 1 = |x|, y = 0 and |x| = 1/2 will be:",
+    "image": null,
+    "options": [
+      "3/4",
+      "3/2",
+      "5/4",
+      "None"
+    ],
+    "correctAnswer": "5/4",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 131,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "tan⁻¹x + tan⁻¹y = c is the general solution of the differential equation",
+    "image": null,
+    "options": [
+      "dy/dx = (1 + y²)/(1 + x²)",
+      "dy/dx = (1 + x²)/(1 + y²)",
+      "(1 + x²)dy + (1 + y²)dx = 0",
+      "(1 + x²)dx + (1 + y²)dy = 0"
+    ],
+    "correctAnswer": "(1 + x²)dy + (1 + y²)dx = 0",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 132,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If y(x) is the solution of the differential equation (x + 2)dy/dx = x² + 4x − 9, x ≠ −2 and y(0) = 0, then y(−4) is equal to:",
+    "image": null,
+    "options": [
+      "0",
+      "2",
+      "1",
+      "−1"
+    ],
+    "correctAnswer": "0",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 133,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If a⃗, b⃗, c⃗ are three non-coplanar vectors, then [a⃗ + b⃗ + c⃗  a⃗ − c⃗  a⃗ − b⃗] is equal to",
+    "image": null,
+    "options": [
+      "0",
+      "2[a⃗ b⃗ c⃗]",
+      "−3[a⃗ b⃗ c⃗]",
+      "2[a⃗ b⃗ c⃗]"
+    ],
+    "correctAnswer": "−3[a⃗ b⃗ c⃗]",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 134,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The vectors a⃗ = î + ĵ + mk̂, b⃗ = î + ĵ + (m+1)k̂ and c⃗ = î − ĵ + mk̂ are coplanar if m is equal to",
+    "image": null,
+    "options": [
+      "1",
+      "4",
+      "3",
+      "None"
+    ],
+    "correctAnswer": "None",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 135,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If A, B and C are the vertices of a triangle whose position vectors are a⃗, b⃗ and c⃗ respectively and G is the centroid of the ΔABC, then GA⃗ + GB⃗ + GC⃗ is",
+    "image": null,
+    "options": [
+      "0⃗",
+      "a⃗ + b⃗ + c⃗",
+      "(a⃗ + b⃗ + c⃗)/3",
+      "(a⃗ − b⃗ − c⃗)/3"
+    ],
+    "correctAnswer": "0⃗",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 136,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If x = b cos⁻¹(√(y/b)) + √(by − y²), then dy/dx =",
+    "image": null,
+    "options": [
+      "−√(b/y) − 1",
+      "√(1 − b/y)",
+      "√(by − y²)",
+      "0"
+    ],
+    "correctAnswer": "√(1 − b/y)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 137,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If y = eˣˣ, then dy/dx =",
+    "image": null,
+    "options": [
+      "y(1 + log_e x)",
+      "yxˣ(1 + log_e x)",
+      "yeˣ(1 + log_e x)",
+      "None of these"
+    ],
+    "correctAnswer": "yxˣ(1 + log_e x)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 138,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If f(1) = 1, f'(1) = 3, then the derivative of f(f(f(x))) + (f(x))² at x = 1 is:",
+    "image": null,
+    "options": [
+      "33",
+      "12",
+      "15",
+      "9"
+    ],
+    "correctAnswer": "33",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 139,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Which of the following functions is differentiable at x = 0?",
+    "image": null,
+    "options": [
+      "cos(|x|) + |x|",
+      "cos(|x|) − |x|",
+      "sin(|x|) + |x|",
+      "sin(|x|) − |x|"
+    ],
+    "correctAnswer": "sin(|x|) − |x|",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 140,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Let f(x) = |sin x|. Then",
+    "image": null,
+    "options": [
+      "f is everywhere differentiable",
+      "f is everywhere continuous but not differentiable at x = nπ, n ∈ Z",
+      "f is everywhere continuous but not differentiable at x = (2n+1)π/2, n ∈ Z",
+      "None of these"
+    ],
+    "correctAnswer": "f is everywhere continuous but not differentiable at x = nπ, n ∈ Z",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 141,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The approximate value of √0.0037 is",
+    "image": null,
+    "options": [
+      "37/600",
+      "73/1200",
+      "71/1200",
+      "None"
+    ],
+    "correctAnswer": "73/1200",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 142,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If f(x) = xˣ, then f(x) is decreasing in interval:",
+    "image": null,
+    "options": [
+      "]0, e[",
+      "]0, 1/e[",
+      "]0, 1[",
+      "None of these"
+    ],
+    "correctAnswer": "]0, 1/e[",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 143,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If x = a(cos t + t sin t) and y = a(sin t − t cos t), then d²y/dx² is",
+    "image": null,
+    "options": [
+      "sec³t",
+      "at sec³t",
+      "sec³t / at",
+      "sec²t"
+    ],
+    "correctAnswer": "sec³t / at",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 144,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The maximum value of (log x) / x is",
+    "image": null,
+    "options": [
+      "e",
+      "2e",
+      "1/e",
+      "2/e"
+    ],
+    "correctAnswer": "1/e",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 145,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "∼((∼p) ∧ q) is equal to",
+    "image": null,
+    "options": [
+      "p ∨ (∼q)",
+      "p ∨ q",
+      "p ∧ (∼q)",
+      "∼p ∧ ∼q"
+    ],
+    "correctAnswer": "p ∨ (∼q)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 146,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "Let p: price increases, q: Demand falls. The symbolic statement of 'If demand does not fall then price does not increase' is",
+    "image": null,
+    "options": [
+      "q → p",
+      "∼q → p",
+      "∼q → ∼p",
+      "∼q ↔ ∼p"
+    ],
+    "correctAnswer": "∼q → ∼p",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 147,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The angle between two lines represented by 2x² + 5xy + 3y² + 6x + 7y + 4 = 0 is",
+    "image": null,
+    "options": [
+      "tan⁻¹(2/5)",
+      "π/4",
+      "3π/4",
+      "tan⁻¹(±1/5)"
+    ],
+    "correctAnswer": "tan⁻¹(±1/5)",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 148,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If one of the lines of 6x² − xy + 4cy² = 0 is given by 3x + 4y = 0, then c equals",
+    "image": null,
+    "options": [
+      "−3",
+      "−1",
+      "3",
+      "1"
+    ],
+    "correctAnswer": "−3",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 149,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "If y = mx + 4 is a tangent to both the parabolas, y² = 4x and x² = 2by, then b is equal to:",
+    "image": null,
+    "options": [
+      "−32",
+      "−64",
+      "−128",
+      "128"
+    ],
+    "correctAnswer": "−128",
+    "marks": 1,
+    "negativeMarks": 0
+  },
+  {
+    "id": 150,
+    "section": "B",
+    "subject": "Mathematics",
+    "type": "mcq",
+    "question": "The tangents to the hyperbola x² − y² = 3 are parallel to the straight line 2x + y + 8 = 0 at the following points",
+    "image": null,
+    "options": [
+      "(2, 1) or (1, 2)",
+      "(2, −1) or (−2, 1)",
+      "(−1, −2)",
+      "(−2, −1)"
+    ],
+    "correctAnswer": "(2, −1) or (−2, 1)",
+    "marks": 1,
+    "negativeMarks": 0
+  }
+]

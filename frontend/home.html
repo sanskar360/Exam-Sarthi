@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>ExamSarthi – Prepare Smarter for JEE, NEET & More</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Clash+Display:wght@400;500;600;700&family=Bricolage+Grotesque:wght@400;500;600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,400&display=swap" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet"/>
+<link rel="stylesheet" href="/Exam-Sarthi/frontend/static/homepage.css">
+
+</head>
+<body>
+
+<!-- ══ NAVBAR ══ -->
+<nav class="navbar navbar-expand-lg" id="mainNav">
+  <div class="container">
+    <a class="navbar-brand brand" href="home.html">
+      <span class="brand-dot"></span>ExamSarthi
+    </a>
+    <button class="navbar-toggler border-0 shadow-none" data-bs-target="#navMenu" data-bs-toggle="collapse" type="button">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navMenu">
+      <ul class="navbar-nav ms-auto align-items-center gap-1">
+        <li class="nav-item"><a class="nav-link" href="#features">Features</a></li>
+        <li class="nav-item"><a class="nav-link" href="#exams">Exams</a></li>
+        <li class="nav-item"><a class="nav-link" href="#how">How It Works</a></li>
+        <li class="nav-item ms-2"><a class="nav-link btn-nav-login" href="login.html">Log In</a></li>
+        <li class="nav-item ms-1"><a class="nav-link btn-nav-cta" href="login.html">Get Started →</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- ══ HERO ══ -->
+<section class="hero" id="home">
+  <div class="hero-bg-circle-1"></div>
+  <div class="hero-bg-circle-2"></div>
+  <div class="container">
+    <div class="row align-items-center g-5">
+      <!-- Left -->
+      <div class="col-lg-6">
+        <div class="hero-badge fade-up d1">
+          <span class="hero-badge-dot"></span>
+          AI-Powered Exam Prep Platform
+        </div>
+        <h1 class="fade-up d2">
+          Crack Your Dream<br><span class="accent">Exam in 2026</span>
+        </h1>
+        <div class="exam-tags fade-up d3">
+          <span class="exam-tag">📘 JEE</span>
+          <span class="exam-tag">🩺 NEET</span>
+          <span class="exam-tag">🏛 UPSC</span>
+          <span class="exam-tag">💻 GATE</span>
+          <span class="exam-tag">📚 MHT-CET</span>
+          <span class="exam-tag">⚔️ NDA</span>
+        </div>
+        <p class="hero-desc fade-up d3">
+          An adaptive, AI-powered platform that personalizes your preparation,
+          tracks every metric, and keeps you steps ahead of the competition.
+        </p>
+        <div class="hero-cta-row fade-up d4">
+          <a class="btn-hero-primary" href="login.html">
+            Start Free Today <i class="bi bi-arrow-right"></i>
+          </a>
+          <a class="btn-hero-secondary" href="#how">
+            <i class="bi bi-play-circle-fill" style="color:var(--blue)"></i> See How It Works
+          </a>
+        </div>
+      </div>
+
+      <!-- Right visual -->
+      <div class="col-lg-6 fade-up d3">
+        <div class="hero-visual">
+          <!-- Float badge top -->
+          <div class="float-badge b1">
+            <span class="float-badge-icon">🏆</span>
+            <div>
+              <div style="font-size:.72rem;color:var(--ink-3);font-weight:500;">Rank Prediction</div>
+              <div style="color:var(--blue);font-weight:700;">Top 3% this week</div>
+            </div>
+          </div>
+
+          <div class="hero-card">
+            <div class="hero-card-inner">
+              <div class="hero-card-header">
+                <span class="hero-card-title">Performance Overview</span>
+                <div class="hero-live-pill">
+                  <div class="live-dot"></div> Live
+                </div>
+              </div>
+              <!-- Chart bars -->
+              <div class="hero-bars">
+                <div class="bar md" style="height:42%"></div>
+                <div class="bar" style="height:58%"></div>
+                <div class="bar md" style="height:50%"></div>
+                <div class="bar hi" style="height:75%"></div>
+                <div class="bar md" style="height:68%"></div>
+                <div class="bar hi" style="height:90%"></div>
+                <div class="bar" style="height:78%"></div>
+                <div class="bar hi" style="height:95%"></div>
+              </div>
+              <!-- Stats -->
+              <div class="hero-stats-grid">
+                <div class="hero-stat">
+                  <div class="hero-stat-val">86%</div>
+                  <div class="hero-stat-lbl">Accuracy</div>
+                </div>
+                <div class="hero-stat">
+                  <div class="hero-stat-val">42</div>
+                  <div class="hero-stat-lbl">Tests Done</div>
+                </div>
+                <div class="hero-stat">
+                  <div class="hero-stat-val">12🔥</div>
+                  <div class="hero-stat-lbl">Day Streak</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Float badge bottom -->
+          <div class="float-badge b2">
+            <span class="float-badge-icon">📈</span>
+            <div>
+              <div style="font-size:.72rem;color:var(--ink-3);font-weight:500;">Score this week</div>
+              <div style="color:#16a34a;font-weight:700;">+14pts vs last week</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- ══ FEATURES ══ -->
+<section class="features" id="features">
+  <div class="container">
+    <div class="row align-items-end mb-5">
+      <div class="col-lg-6 reveal">
+        <div class="section-eyebrow">Features</div>
+        <h2 class="section-title">Built for Serious<br>Aspirants</h2>
+      </div>
+      <div class="col-lg-6 reveal">
+        <p class="section-sub" style="max-width:420px;margin-left:auto;">
+          Our platform combines adaptive AI with proven pedagogical methods
+          to accelerate your preparation with precision.
+        </p>
+      </div>
+    </div>
+
+    <div class="feat-grid reveal">
+      <div class="feat-card">
+        <div class="feat-icon-wrap" style="background:#eff6ff;">
+          <i class="bi bi-diagram-3-fill text-primary fs-4"></i>
+        </div>
+        <h5>Adaptive Learning Paths</h5>
+        <p>Our AI maps your knowledge gaps in real-time, continuously restructuring your study plan to focus on the areas where you need the most improvement — so no minute is wasted.</p>
+        <div class="feat-chips">
+          <span class="feat-chip" style="background:#eff6ff;color:#1d4ed8;">AI-Personalized</span>
+          <span class="feat-chip" style="background:#eff6ff;color:#1d4ed8;">Real-time</span>
+        </div>
+      </div>
+      <div class="feat-card">
+        <div class="feat-icon-wrap" style="background:#f0fdf4;">
+          <i class="bi bi-speedometer2 fs-4" style="color:#16a34a;"></i>
+        </div>
+        <h5>Velocity & Accuracy Tracking</h5>
+        <p>Monitor your cognitive speed and accuracy metrics over every session. Understand exactly how your performance evolves with detailed trends per subject and question type.</p>
+        <div class="feat-chips">
+          <span class="feat-chip" style="background:#f0fdf4;color:#15803d;">Speed</span>
+          <span class="feat-chip" style="background:#f0fdf4;color:#15803d;">Analytics</span>
+        </div>
+      </div>
+      <div class="feat-card">
+        <div class="feat-icon-wrap" style="background:#fefce8;">
+          <i class="bi bi-bar-chart-line-fill fs-4" style="color:#ca8a04;"></i>
+        </div>
+        <h5>Deep Performance Insights</h5>
+        <p>Comprehensive post-exam analytics breaking down your results by subject, chapter, question type, and time management — turning every test into a learning opportunity.</p>
+        <div class="feat-chips">
+          <span class="feat-chip" style="background:#fefce8;color:#92400e;">Reports</span>
+          <span class="feat-chip" style="background:#fefce8;color:#92400e;">Charts</span>
+        </div>
+      </div>
+      <div class="feat-card">
+        <div class="feat-icon-wrap" style="background:#fdf4ff;">
+          <i class="bi bi-chat-dots-fill fs-4" style="color:#9333ea;"></i>
+        </div>
+        <h5>AI Study Companion</h5>
+        <p>Engage with an intelligent tutoring system trained on thousands of academic papers. It doesn't just give answers — it guides you through the reasoning to build deep understanding.</p>
+        <div class="feat-chips">
+          <span class="feat-chip" style="background:#fdf4ff;color:#7e22ce;">AI-Guided</span>
+          <span class="feat-chip" style="background:#fdf4ff;color:#7e22ce;">24/7 Available</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ EXAMS ══ -->
+<section class="exams-section" id="exams">
+  <div class="container">
+    <div class="text-center mb-5 reveal">
+      <div class="section-eyebrow" style="justify-content:center;">Exam Coverage</div>
+      <h2 class="section-title">All Major Exams,<br>One Platform</h2>
+      <p class="section-sub mx-auto">Comprehensive mock tests and study material for every major competitive exam in India.</p>
+    </div>
+    <div class="row g-4 reveal" style="justify-content:center;">
+      <div class="col-6 col-md-4 col-lg-2">
+        <div class="exam-card">
+          <span class="exam-card-emoji">📘</span>
+          <h5>JEE Mains</h5>
+          <p>B.Tech admissions</p>
+          
+        </div>
+      </div>
+      <div class="col-6 col-md-4 col-lg-2">
+        <div class="exam-card">
+          <span class="exam-card-emoji">🩺</span>
+          <h5>NEET UG</h5>
+          <p>MBBS & BDS</p>
+          
+        </div>
+      </div>
+      
+      <div class="col-6 col-md-4 col-lg-2">
+        <div class="exam-card">
+          <span class="exam-card-emoji">💻</span>
+          <h5>GATE</h5>
+          <p>M.Tech & PSUs</p>
+          
+        </div>
+      </div>
+      <div class="col-6 col-md-4 col-lg-2">
+        <div class="exam-card">
+          <span class="exam-card-emoji">📚</span>
+          <h5>MHT-CET</h5>
+          <p>Maharashtra Engg.</p>
+          
+        </div>
+      </div>
+      <div class="col-6 col-md-4 col-lg-2">
+        <div class="exam-card">
+          <span class="exam-card-emoji">⚔️</span>
+          <h5>NDA</h5>
+          <p>Defence Forces</p>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ HOW IT WORKS ══ -->
+<section class="hiw" id="how">
+  <div class="container">
+    <div class="text-center mb-5 reveal">
+      <div class="section-eyebrow" style="justify-content:center;">Process</div>
+      <h2 class="section-title">From Sign-Up to Success</h2>
+      <p class="section-sub mx-auto">A clear, structured path designed for the serious aspirant.</p>
+    </div>
+    <div class="steps-wrapper reveal">
+      <div class="step-item">
+        <div class="step-num-wrap"><span class="step-num">01</span></div>
+        <h5>Create Account</h5>
+        <p>Sign up free and select your target exam — JEE, NEET, GATE, NDA, or MHT-CET.</p>
+      </div>
+      <div class="step-item">
+        <div class="step-num-wrap"><span class="step-num">02</span></div>
+        <h5>Browse Library</h5>
+        <p>Choose from 1,200+ mock tests sorted by exam, subject, difficulty, and shift.</p>
+      </div>
+      <div class="step-item">
+        <div class="step-num-wrap"><span class="step-num">03</span></div>
+        <h5>Attempt & Review</h5>
+        <p>Take timed exams with MCQ palettes, live timers, and instant detailed scoring.</p>
+      </div>
+      <div class="step-item">
+        <div class="step-num-wrap"><span class="step-num">04</span></div>
+        <h5>Track & Improve</h5>
+        <p>Monitor rank predictions, accuracy trends, and study streaks on your dashboard.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<!-- ══ CTA ══ -->
+<section class="cta-section" id="about">
+  <div class="cta-bg-circle c1"></div>
+  <div class="cta-bg-circle c2"></div>
+  <div class="container text-center position-relative" style="z-index:1;">
+    <div class="row justify-content-center reveal">
+      <div class="col-lg-7">
+        <h2>Ready to Crack Your Dream Exam?</h2>
+        <p>Join 50,000+ students already preparing smarter with ExamSarthi.<br/>Start completely free — no credit card required.</p>
+        <div class="d-flex flex-wrap justify-content-center gap-3">
+          <a class="btn-cta-primary" href="login.html">
+            Get Started Free <i class="bi bi-arrow-right"></i>
+          </a>
+          <a class="btn-cta-ghost" href="#features">
+            <i class="bi bi-eye"></i> Explore Features
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ FOOTER ══ -->
+<footer>
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-md-4">
+        <div class="footer-brand">
+          <span style="width:8px;height:8px;border-radius:50%;background:var(--blue);display:inline-block;"></span>
+          ExamSarthi
+        </div>
+        <p class="footer-desc">AI-powered exam preparation for JEE, NEET, GATE, NDA & more. Built for serious aspirants.</p>
+      </div>
+      <div class="col-6 col-md-2">
+        <div class="footer-heading">Platform</div>
+        <a class="footer-link" href="#features">Features</a>
+        <a class="footer-link" href="#how">How It Works</a>
+        <a class="footer-link" href="login.html">Login</a>
+        <a class="footer-link" href="dashboard.html">Dashboard</a>
+      </div>
+      <div class="col-6 col-md-2">
+        <div class="footer-heading">Exams</div>
+        <a class="footer-link" href="#">JEE Mains</a>
+        <a class="footer-link" href="#">NEET UG</a>
+        <a class="footer-link" href="#">MHT-CET</a>
+        <a class="footer-link" href="#">GATE</a>
+        <a class="footer-link" href="#">NDA</a>
+      </div>
+      <div class="col-md-4">
+        <div class="footer-heading">Support</div>
+        <a class="footer-link" href="#">Terms of Service</a>
+        <a class="footer-link" href="#">Privacy Policy</a>
+        <a class="footer-link" href="#">Contact Us</a>
+        <a class="footer-link" href="#">Help Center</a>
+      </div>
+    </div>
+    <div class="footer-bottom d-flex flex-wrap justify-content-between align-items-center gap-2">
+      <span>© 2026 ExamSarthi. All rights reserved.</span>
+      <span>Made with <i class="bi bi-heart-fill" style="color:#ef4444;font-size:.72rem;"></i> for Indian students</span>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+  // Navbar scroll shadow
+  window.addEventListener('scroll', () => {
+    document.getElementById('mainNav').classList.toggle('scrolled', window.scrollY > 20);
+  });
+
+  // Smooth scroll
+  document.querySelectorAll('a[href^="#"]').forEach(a => {
+    a.addEventListener('click', e => {
+      const t = document.querySelector(a.getAttribute('href'));
+      if (t) { e.preventDefault(); t.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+    });
+  });
+
+  // Scroll reveal
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add('visible'); observer.unobserve(e.target); }
+    });
+  }, { threshold: 0.12 });
+  document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+  // Animate stat numbers on scroll
+  const statObserver = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.querySelectorAll('.stat-num').forEach(el => {
+          el.style.animation = 'fadeUp .6s ease both';
+        });
+        statObserver.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.5 });
+  document.querySelectorAll('.stats-bar').forEach(el => statObserver.observe(el));
+</script>
+</body>
+</html>

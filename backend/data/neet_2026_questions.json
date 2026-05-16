@@ -1,0 +1,2888 @@
+[
+  {
+    "id": 1,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "The speed of light in vacuum is taken as unity. If light takes 6 min 40 s to reach the Earth from the Sun, the distance between the Sun and the Earth in new unit is:",
+    "image": null,
+    "options": [
+      "3 × 10^8",
+      "500",
+      "3 × 10^10",
+      "400"
+    ],
+    "correctAnswer": "400",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 2,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList I:\nA. Young's Modulus\nB. Compressibility\nC. Bulk Modulus\nD. Poisson's Ratio\n\nList II:\nI. (Δd/ΔL)*(L/d)\nII. FL / A(ΔL)\nIII. -1/ΔP * (ΔV/V)\nIV. -P(V/ΔV)\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-IV, B-I, C-II, D-III",
+      "A-III, B-II, C-I, D-IV",
+      "A-I, B-IV, C-III, D-II",
+      "A-II, B-III, C-IV, D-I"
+    ],
+    "correctAnswer": "A-II, B-III, C-IV, D-I",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 3,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "The current I in the circuit shown below is: (All diodes are ideal and identical)",
+    "image": "circuit_diagram_q3.png",
+    "options": [
+      "5/3 A",
+      "5/9 A",
+      "1/3 A",
+      "15/2 A"
+    ],
+    "correctAnswer": "15/2 A",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 4,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "The angular speed of a flywheel is increased from 600 rpm to 1200 rpm in 10 s. The number of revolutions completed by the flywheel during this time is:",
+    "image": null,
+    "options": [
+      "900",
+      "600",
+      "150",
+      "300"
+    ],
+    "correctAnswer": "150",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 5,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "For a simple pendulum, having time period T, the variation of kinetic energy (K.E.) with time (t) is represented by:",
+    "image": "graphs_q5.png",
+    "options": [
+      "Graph (1)",
+      "Graph (2)",
+      "Graph (3)",
+      "Graph (4)"
+    ],
+    "correctAnswer": "Graph (3)",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 6,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "A resistor is connected to a battery of 12 V emf and internal resistance 2 Ω. If the current in the circuit is 0.6 A, the terminal voltage of the battery is:",
+    "image": null,
+    "options": [
+      "10 V",
+      "1.2 V",
+      "12 V",
+      "10.8 V"
+    ],
+    "correctAnswer": "10.8 V",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 7,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "A flask contains argon and chlorine in the ratio of 2 : 1 by mass. The temperature of the mixture is 27°C. The ratio of root mean square speed of the molecules of the two gases (V_rms^Ar / V_rms^Cl) is: (Atomic mass of argon = 40.0 u and molecular mass of chlorine = 70.0 u)",
+    "image": null,
+    "options": [
+      "√7 / 2",
+      "7 / 4",
+      "7 / 2",
+      "2 / √7"
+    ],
+    "correctAnswer": "√7 / 2",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 8,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "A ray of monochromatic light is passing through an equilateral prism (ABC) as shown in the figure. The refracted ray (QR) is parallel to its base (BC) and the angle of incidence (i) is 50°. Then the angle of deviation (δ) is:",
+    "image": "prism_diagram_q8.png",
+    "options": [
+      "45°",
+      "35°",
+      "40°",
+      "55°"
+    ],
+    "correctAnswer": "40°",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 9,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "Match List I with List II.\nList-I:\nA. E = hv\nB. Diffraction and Interference\nC. λ = h/p\nD. Compton effect\n\nList-II:\nI. de Broglie wavelength\nII. Particle nature of light\nIII. Wave nature of light\nIV. Energy of photon\n\nChoose the correct answer from the options given below.",
+    "image": null,
+    "options": [
+      "A-IV, B-I, C-II, D-III",
+      "A-IV, B-III, C-II, D-I",
+      "A-I, B-IV, C-III, D-II",
+      "A-IV, B-III, C-I, D-II"
+    ],
+    "correctAnswer": "A-IV, B-III, C-I, D-II",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 10,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "In the first excited state of hydrogen atom, the energy of its electron is -3.4 eV. The radial distance of the electron from the hydrogen nucleus in this case is approximately: (Take 1 eV = 1.6 × 10^-19 J, e = 1.6 × 10^-19 C and 1/(4πε0) = 9 × 10^9 N m^2/C^2)",
+    "image": null,
+    "options": [
+      "2.1 × 10^-9 m",
+      "2.1 × 10^-8 m",
+      "2.1 × 10^-10 m",
+      "2.1 × 10^-11 m"
+    ],
+    "correctAnswer": "2.1 × 10^-10 m",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 11,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "A box of mass 15 kg is kept on the floor of a stationary trolley. The coefficient of static friction between the box and the trolley is 0.12. Keeping the box in stationary state over the trolley, the maximum acceleration with which the trolley can be moved horizontally in m s^-2 is: (g = 10 m/s²)",
+    "image": null,
+    "options": [
+      "2.1",
+      "1.8",
+      "1.5",
+      "1.2"
+    ],
+    "correctAnswer": "1.2",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 12,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "Five capacitors of capacitances C1 = C2 = C3 = C4 = 10 µF and C5 = 2.5 µF are connected as shown, along with a battery of 50 V. The equivalent capacitance and the charges on each capacitor respectively are:",
+    "image": "capacitor_circuit_q12.png",
+    "options": [
+      "5 μF, 125 µC on C1 to C4 and 25 µC on C5",
+      "5 µF, 125 µC on all capacitors",
+      "5 µF, 250 µC on all capacitors",
+      "4 μF, 250 µC on C1 to C4 and 125 µC on C5"
+    ],
+    "correctAnswer": "5 µF, 125 µC on all capacitors",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 13,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "The amount of work done to raise a mass 'm' from the surface of the Earth to a height equal to the radius of the Earth 'R' will be:",
+    "image": null,
+    "options": [
+      "2 mg R",
+      "mg R / 4",
+      "mgR",
+      "mg R / 2"
+    ],
+    "correctAnswer": "mg R / 2",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 14,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "Each side of a metallic cube of mass 5.580 kg is measured to be 9.0 cm. Keeping the significant figures in view, the density of the material of the cube can be best expressed as X × 10^3 kg m^-3 where the value of X is:",
+    "image": null,
+    "options": [
+      "7.654",
+      "7.6",
+      "7.65",
+      "7.7"
+    ],
+    "correctAnswer": "7.7",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 15,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "The following plots show variation of velocity (v) with time (t) of a ball thrown vertically upward, and falling back. Which of the following plots is/are correct?",
+    "image": "velocity_time_plots_q15.png",
+    "options": [
+      "C only",
+      "D only",
+      "B only",
+      "A and E only"
+    ],
+    "correctAnswer": "C only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 16,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "The sum of kinetic energy and potential energy of a simple pendulum bob is 0.02 joule. The speed of the simple pendulum bob at equilibrium position is approximately: (Consider mass of the bob = 20 g)",
+    "image": null,
+    "options": [
+      "0.2 m/s",
+      "1.41 m/s",
+      "14.1 m/s",
+      "2.0 m/s"
+    ],
+    "correctAnswer": "1.41 m/s",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 17,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "In Young's double slit experiment, using monochromatic light of wavelength λ, the intensity of light at a point on the screen where the path difference is λ, is K units. The intensity of light at a point where the path difference is λ/3 will be:",
+    "image": null,
+    "options": [
+      "K / 4",
+      "K",
+      "2K",
+      "K / 2"
+    ],
+    "correctAnswer": "K / 4",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 18,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "In the circuit shown below, the voltage appearing across the diode D will be of the form:",
+    "image": "diode_circuit_waveforms_q18.png",
+    "options": [
+      "Waveform (1)",
+      "Waveform (2)",
+      "Waveform (3)",
+      "Waveform (4)"
+    ],
+    "correctAnswer": "Waveform (4)",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 19,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "An ac circuit contains a resistance of 1 kΩ, a capacitor of 0.1 µF and an inductor of 1 mH connected in series. The resonance frequency of the circuit is approximately:",
+    "image": null,
+    "options": [
+      "13.5 kHz",
+      "10.1 kHz",
+      "20.7 kHz",
+      "15.9 kHz"
+    ],
+    "correctAnswer": "15.9 kHz",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 20,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "In interference and diffraction, the light energy is redistributed. If it reduces in one region, producing a dark fringe, it increases in another region, producing a bright fringe.\nA. As there is no gain or loss of energy, these phenomena are consistent with the principle of conservation of energy.\nB. Diffraction and interference are characteristics exhibited only by light waves.\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A is true and B is also true",
+      "A is false, but B is true",
+      "A is true, but B is false",
+      "Both A and B are false"
+    ],
+    "correctAnswer": "A is true, but B is false",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+
+  {
+    "id": 21,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "For a travelling harmonic wave y(x, t) = 2.0 cos 2π(10t - 0.0080x + 0.35), where x and y are in cm and t in s. The phase difference between oscillatory motion of two points separated by a distance of 0.5 m is:",
+    "image": null,
+    "options": [
+      "0.08 π rad",
+      "0.8 π rad",
+      "8 π rad",
+      "0.008 π rad"
+    ],
+    "correctAnswer": "0.8 π rad",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 22,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "The magnitude and direction of the acceleration produced in a body of mass 5 kg when two mutually perpendicular forces 8 N and 6 N act on it, are respectively:",
+    "image": null,
+    "options": [
+      "20 m s^-2; tan^-1 (4/3) with 8 N force",
+      "2 m s^-2; tan^-1 (3/4) with 6 N force",
+      "2 m s^-2; tan^-1 (4/3) with 8 N force",
+      "2 m s^-2; tan^-1 (3/4) with 8 N force"
+    ],
+    "correctAnswer": "2 m s^-2; tan^-1 (3/4) with 8 N force",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 23,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "Consider two uncharged capacitors of equal capacitance 200 pF. One of them is charged by a 100 V supply and disconnected. Now this capacitor is connected to the uncharged capacitor. The amount of electrostatic energy lost in the process is:",
+    "image": null,
+    "options": [
+      "0.5 × 10^-6 J",
+      "1.0 J",
+      "1.0 × 10^-6 J",
+      "0.5 J"
+    ],
+    "correctAnswer": "0.5 × 10^-6 J",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 24,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "The power of a crane, which lifts a mass of 1000 kg to a height of 20 m in 10 s is: (g = 9.8 m/s²)",
+    "image": null,
+    "options": [
+      "19.6 W",
+      "39.2 W",
+      "19.6 kW",
+      "39.2 kW"
+    ],
+    "correctAnswer": "19.6 kW",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 25,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "In a vernier calliper, 20 VSD coincide with 16 MSD (each division of length 1 mm). The least count of the vernier callipers is:",
+    "image": null,
+    "options": [
+      "0.2 cm",
+      "0.01 cm",
+      "0.02 cm",
+      "0.1 cm"
+    ],
+    "correctAnswer": "0.02 cm",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 26,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "When a ruler falls vertically, 5 different persons catch it with different reaction times. (g = 9.8 m s^-2)\nA. Person A has reaction time of 0.20 s.\nB. Person B has reaction time of 0.22 s.\nC. Person C has reaction time of 0.18 s.\nD. Person D has reaction time of 0.19 s.\nE. Person E has reaction time of 0.21 s.\nWhat is the correct order of the distance travelled by the ruler for each person?",
+    "image": null,
+    "options": [
+      "B > E > A > C > D",
+      "C > D > A > B > E",
+      "B > E > A > D > C",
+      "C > D > A > E > B"
+    ],
+    "correctAnswer": "B > E > A > D > C",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 27,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "A uniform metallic wire having resistance 4 Ω is bent to form a square loop (ABCD) (see figure). A resistance of 2 Ω is connected between points B and D and a battery of 2 V is connected across points A and C as shown in the figure. Now the value of current (I) is:",
+    "image": "square_loop_circuit_q27.png",
+    "options": [
+      "2 A",
+      "8 A",
+      "4.5 A",
+      "4 A"
+    ],
+    "correctAnswer": "2 A",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 28,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "A room heater is rated 400 W, 220 V. If the supply voltage drops to 200 V, what will be the power consumed (approximately)?",
+    "image": null,
+    "options": [
+      "200 W",
+      "400 W",
+      "331 W",
+      "121 W"
+    ],
+    "correctAnswer": "331 W",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 29,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "A 100-turn closely wound circular coil of radius 5 cm has a magnetic field of 3.14 × 10^-3 T at its centre. The current flowing through the coil, and the magnitude of the magnetic moment of this coil are, respectively: (Take μ0 = 4π × 10^-7 T m/A)",
+    "image": null,
+    "options": [
+      "2 A, 10 A m²",
+      "2.5 A, 20 A m²",
+      "2 A, 4 A m²",
+      "2.5 A, 2 A m²"
+    ],
+    "correctAnswer": "2.5 A, 2 A m²",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 30,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "A rectangular wire loop of sides 8 cm and 3 cm with a small cut, is moving out of a region of uniform magnetic field of magnitude 0.3 T directed normal to the plane of the loop. The emf developed across the cut, if the velocity of the loop is 2 cm s^-1, in a direction normal to the shorter side of the loop, will be:",
+    "image": null,
+    "options": [
+      "4.8 × 10^-4 volt",
+      "1.2 × 10^-4 volt",
+      "1.3 × 10^-4 volt",
+      "1.8 × 10^-4 volt"
+    ],
+    "correctAnswer": "1.8 × 10^-4 volt",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 31,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "Four statements are given (A is mass number):\nA. The volume of a nucleus is proportional to A^1/3.\nB. The volume of a nucleus is proportional to A.\nC. The difference in mass of an atom and its nucleus is called the mass defect.\nD. The difference in mass of a nucleus and its constituents is called the mass defect.\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A and C are true, but B and D are false",
+      "B and C are true, but A and D are false",
+      "A and D are true, but B and C are false",
+      "B and D are true, but A and C are false"
+    ],
+    "correctAnswer": "B and D are true, but A and C are false",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 32,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "An unknown nucleus has a nuclear density of 2.29 × 10^17 kg/m³ and mass of 19.926 × 10^-27 kg. Its mass number A is approximately: (Take R0 = 1.2 × 10^-15 m, 4π = 12.56)",
+    "image": null,
+    "options": [
+      "12",
+      "20",
+      "16",
+      "19"
+    ],
+    "correctAnswer": "12",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 33,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "Savitha, a XI standard student, while conducting an experiment to determine the effective length of a simple pendulum L, notes down the data of time taken to complete 30 oscillations as 60 s and hence calculates the length of the simple pendulum as: (Take π² = 9.8, and g = 9.8 m/s²)",
+    "image": null,
+    "options": [
+      "0.75 m",
+      "1.5 m",
+      "2 m",
+      "1 m"
+    ],
+    "correctAnswer": "1 m",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 34,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "An electric heater supplies heat to a system at a rate of 100 W. If the system performs work at a rate of 75 J/s, then the rate at which internal energy increases will be:",
+    "image": null,
+    "options": [
+      "75 W",
+      "100 W",
+      "125 W",
+      "25 W"
+    ],
+    "correctAnswer": "25 W",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 35,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "A thin wire of length 'L' and linear mass density 'm' is bent into a circular ring (in x-y plane) with centre 'C' as shown in figure. The moment of inertia of the ring about an axis yy' will be:",
+    "image": "circular_ring_axis_q35.png",
+    "options": [
+      "3mL^3 / 8π",
+      "3mL^3 / 8π^2",
+      "3mL^2 / 8π",
+      "3mL^2 / 8π^2"
+    ],
+    "correctAnswer": "3mL^3 / 8π^2",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 36,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "A galvanometer of resistance 100 Ω gives full scale deflection for a current of 1 mA. It is converted into an ammeter of range 0 - 10 A. The shunt required is:",
+    "image": null,
+    "options": [
+      "0.01 Ω",
+      "0.10 Ω",
+      "1.0 Ω",
+      "0.001 Ω"
+    ],
+    "correctAnswer": "0.01 Ω",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 37,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "In a metre bridge experiment (see figure), the positions of the cell, E, and galvanometer, G, are interchanged. We shall observe in the galvanometer:",
+    "image": "meter_bridge_circuit_q37.png",
+    "options": [
+      "Only the left-sided deflection",
+      "There will be no deflection irrespective of the position of the jockey",
+      "Only the right-sided deflection",
+      "Both right-sided and left-sided deflection and at balance point, no deflection"
+    ],
+    "correctAnswer": "Both right-sided and left-sided deflection and at balance point, no deflection",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 38,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "The peak value of an alternating current is 5 A and frequency is 60 Hz. How long will the current, starting from zero, take to reach the peak value?",
+    "image": null,
+    "options": [
+      "1/120 s",
+      "1/60 s",
+      "1/30 s",
+      "1/240 s"
+    ],
+    "correctAnswer": "1/240 s",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 39,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "The figure given below shows a long straight solid wire of circular cross-section of radius 'a' carrying steady current I. The current I is uniformly distributed across its cross-section. The plot which correctly represents the variation of magnetic field (B) with distance (r) from the axis of the conductor in the region is:",
+    "image": "magnetic_field_plots_q39.png",
+    "options": [
+      "Plot (1)",
+      "Plot (2)",
+      "Plot (3)",
+      "Plot (4)"
+    ],
+    "correctAnswer": "Plot (1)",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 40,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "Two statements are given below:\nA. When the forward bias voltage across a p-n junction diode increases above a certain threshold voltage, the diode current increases significantly.\nB. This current is called reverse saturation current.\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "Both Statements A and B are true",
+      "Statement A is true, but Statement B is false",
+      "Both Statements A and B are false",
+      "Statement A is false, but Statement B is true"
+    ],
+    "correctAnswer": "Statement A is true, but Statement B is false",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+
+  {
+    "id": 41,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "Which of the following statements are correct?\nA. Inside a conductor, the electrostatic field is zero.\nB. Electric field at the surface of a charged conductor does not depend on its surface charge density.\nC. The interior of a charged conductor can have no excess charge in the static situation.\nD. At the surface of a charged conductor, the electrostatic field must be normal to the surface at every point.\nE. The electrostatic potential is zero everywhere inside a charged conductor.\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A, B and D only",
+      "A, C and E only",
+      "A, C and D only",
+      "C, D and E only"
+    ],
+    "correctAnswer": "A, C and D only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 42,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "For a metal of work function 6.6 eV, which of the following wavelengths of incident radiation does not give rise to the photoelectric effect? (Take Planck's constant as 6.6 × 10^-34 J s)",
+    "image": null,
+    "options": [
+      "100 nm",
+      "150 nm",
+      "200 nm",
+      "50 nm"
+    ],
+    "correctAnswer": "200 nm",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 43,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "In a concave lens, a ray of light emanating from the object parallel to the principal axis of the lens after refraction:",
+    "image": null,
+    "options": [
+      "passes through 2F, which is the radius of curvature of the lens.",
+      "appears to diverge from the first principal focus.",
+      "emerges parallel to the principal axis.",
+      "passes through the second principal focus."
+    ],
+    "correctAnswer": "appears to diverge from the first principal focus.",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 44,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "A submarine is designed to withstand an absolute pressure of 100 atm. How deep can it go below the water surface? (Consider the density of water = 1000 kg m^-3, 1 atm = 1 × 10^5 Pa and gravitational acceleration g = 10 m/s²)",
+    "image": null,
+    "options": [
+      "990 m",
+      "9900 m",
+      "99 m",
+      "9000 m"
+    ],
+    "correctAnswer": "990 m",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 45,
+    "section": "Physics",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList-I (Electromagnetic wave):\nA. Microwave\nB. Visible light\nC. Gamma rays\nD. Infra-red rays\n\nList-II (Production):\nI. Electrons in atoms emit light when they move from a higher energy level to a lower energy level\nII. Radioactive decay of nucleus\nIII. Vibration of atoms and molecules\nIV. Klystron valve or magnetron valve\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-III, B-I, C-II, D-IV",
+      "A-III, B-IV, C-I, D-II",
+      "A-IV, B-I, C-II, D-III",
+      "A-IV, B-III, C-II, D-I"
+    ],
+    "correctAnswer": "A-IV, B-I, C-II, D-III",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 46,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Select the reagents that reduce nitriles to primary amines.\nA. (i) LiAlH4; (ii) H2O\nB. Sn + HCl\nC. H2/Ni\nD. Na(Hg)/C2H5OH\nE. Br2/aq. NaOH\nChoose the correct answer from the options given below.",
+    "image": null,
+    "options": [
+      "B, D and E only",
+      "A, C and D only",
+      "A, D and E only",
+      "A, B and C only"
+    ],
+    "correctAnswer": "A, C and D only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 47,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList I (Transition metal/compound/complex):\nA. V2O5\nB. Fe\nC. PdCl2\nD. Ni complex\n\nList II (Catalytic Role):\nI. Preparation of ammonia from N2/H2 mixture\nII. Polymerisation of alkynes\nIII. Preparation of H2SO4 and SO2\nIV. Oxidation of ethyne to ethanal\n\nChoose the correct answer from the options given below.",
+    "image": null,
+    "options": [
+      "A-III, B-IV, C-I, D-II",
+      "A-IV, B-I, C-III, D-II",
+      "A-II, B-I, C-IV, D-III",
+      "A-III, B-I, C-IV, D-II"
+    ],
+    "correctAnswer": "A-III, B-I, C-IV, D-II",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 48,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Consider the following reaction:\n2A(g) + B(g) → 2D(g)\nΔU° = -10 kJ mol^-1 and ΔS° = -44 J K^-1 at 298 K.\nIdentify the correct option with ΔG° for the reaction and spontaneity of the reaction at 298 K. (Given: R = 8.31 J mol^-1 K^-1)",
+    "image": null,
+    "options": [
+      "-1.635 kJ mol^-1, spontaneous",
+      "-0.63568 kJ mol^-1, spontaneous",
+      "+0.63568 kJ mol^-1, non-spontaneous",
+      "+1.635 kJ mol^-1, non-spontaneous"
+    ],
+    "correctAnswer": "+0.63568 kJ mol^-1, non-spontaneous",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 49,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList I (Quantum Numbers - 'n', 'l'):\nA. 2, 1\nB. 4, 0\nC. 5, 3\nD. 3, 2\n\nList II (Orbital):\nI. 3d\nII. 2p\nIII. 4s\nIV. 5f\n\nChoose the correct answer from the options given below.",
+    "image": null,
+    "options": [
+      "A-IV, B-II, C-III, D-I",
+      "A-II, B-III, C-I, D-IV",
+      "A-II, B-III, C-IV, D-I",
+      "A-I, B-II, C-III, D-IV"
+    ],
+    "correctAnswer": "A-II, B-III, C-IV, D-I",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 50,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "In a qualitative analysis, Bi³⁺ is detected by appearance of precipitate of BiO(OH)(s). Calculate pH when the following equilibrium exists at 298 K.\nBiO(OH)(s) ⇌ BiO⁺(aq) + OH⁻(aq), K = 4 × 10^-10\n(Given: log2 = 0.3010)",
+    "image": null,
+    "options": [
+      "8.714",
+      "4.699",
+      "5.286",
+      "9.301"
+    ],
+    "correctAnswer": "9.301",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 51,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "The correct statement with regard to the secondary structure of DNA/RNA is:",
+    "image": null,
+    "options": [
+      "RNA possesses a single strand helix structure and contains thymine as one of the four bases",
+      "DNA possesses a double strand helix structure and contains thymine as one of the four bases",
+      "RNA possesses a double strand helix structure and contains uracil as one of the four bases",
+      "DNA possesses a single strand helix structure and contains uracil as one of the four bases"
+    ],
+    "correctAnswer": "DNA possesses a double strand helix structure and contains thymine as one of the four bases",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 52,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "The pair of molecules that are metamers among the following is:",
+    "image": null,
+    "options": [
+      "CH3CH2CH2OH and CH3-CH(OH)-CH3",
+      "CH3CH2CH2CH2CH3 and (CH3)2CHCH2CH3",
+      "CH3-CO-CH3 and H3C-CH-CH2-C-H (structures as represented)",
+      "CH3OCH2CH2CH3 and CH3CH2OCH2CH3"
+    ],
+    "correctAnswer": "CH3OCH2CH2CH3 and CH3CH2OCH2CH3",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 53,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList-I (Complex):\nA. [Pt(NH3)2Cl2]\nB. [Co(en)3]^3+\nC. [Co(NH3)5NO2]Cl2\nD. [Cr(H2O)6]Cl3\n\nList-II (Type of isomerism):\nI. Optical\nII. Solvate\nIII. Geometrical\nIV. Linkage\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-III, B-I, C-II, D-IV",
+      "A-I, B-III, C-II, D-IV",
+      "A-II, B-IV, C-III, D-I",
+      "A-III, B-I, C-IV, D-II"
+    ],
+    "correctAnswer": "A-III, B-I, C-IV, D-II",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 54,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList-I (Order of reaction):\nA. Zero order\nB. First order\nC. Second order\nD. Third order\n\nList-II (Unit of rate constant):\nI. mol^-1 L s^-1\nII. mol^-2 L^2 s^-1\nIII. s^-1\nIV. mol L^-1 s^-1\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-IV, B-II, C-I, D-III",
+      "A-IV, B-III, C-I, D-II",
+      "A-IV, B-III, C-II, D-I",
+      "A-I, B-II, C-III, D-IV"
+    ],
+    "correctAnswer": "A-IV, B-III, C-I, D-II",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 55,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "The correct IUPAC name of the following compound is:\nCH3-CH2-CH(CH3-CH2)-CH2-CH(CH3)-CH2-CH3",
+    "image": "iupac_structure_q55.png",
+    "options": [
+      "3-ethyl-5-methylheptane",
+      "2,4-diethylhexane",
+      "3-methyl-5-ethylheptane",
+      "3,5-diethylhexane"
+    ],
+    "correctAnswer": "3-ethyl-5-methylheptane",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 56,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "A bulb is rated at 150 watt, converting 8% energy into light. If energy of one photon is 4.42 × 10^-19 J, how many photons are emitted by the bulb per second?",
+    "image": null,
+    "options": [
+      "2.71 × 10^19",
+      "4.06 × 10^19",
+      "27.2 × 10^19",
+      "1.35 × 10^19"
+    ],
+    "correctAnswer": "2.71 × 10^19",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 57,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Methane reacts with steam at 1273 K in the presence of nickel catalyst to form:",
+    "image": null,
+    "options": [
+      "CO and H2O",
+      "CO2 and H2",
+      "CO and H2",
+      "CO2 and H2O"
+    ],
+    "correctAnswer": "CO and H2",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 58,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Compound P(C8H8O) gives a red orange precipitate with 2,4-DNP reagent and it does not reduce Fehling's reagent. On drastic oxidation with chromic acid, P gives an aromatic product Q that produces effervescence on treating with aq. NaHCO3. Compounds P and Q, respectively, are:",
+    "image": "chemical_structures_q58.png",
+    "options": [
+      "Option (1)",
+      "Option (2)",
+      "Option (3)",
+      "Option (4)"
+    ],
+    "correctAnswer": "Option (4)",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 59,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList I:\nA. C2H4\nB. C2H2\nC. CH4\nD. NH3\n\nList II:\nI. 3 σ bonds, 2 π bonds\nII. 3 σ bonds, one lone pair\nIII. 4 σ bonds\nIV. 5 σ bonds, 1 π bond\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-III, B-IV, C-II, D-I",
+      "A-IV, B-I, C-III, D-II",
+      "A-I, B-II, C-IV, D-III",
+      "A-II, B-III, C-I, D-IV"
+    ],
+    "correctAnswer": "A-IV, B-I, C-III, D-II",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 60,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "The following two reactions give the same foul smelling product Z.\nC2H5Cl --(X)--> Z\nC2H5CONH2 --(Br2, NaOH)--> Y --(CHCl3/ethanolic KOH, Δ)--> Z\n\nX and Z, respectively, are:",
+    "image": null,
+    "options": [
+      "X = AgCN; Z = C2H5NC",
+      "X = KCN; Z = C2H5CN",
+      "X = AgCN; Z = C2H5CN",
+      "X = KCN; Z = C2H5NC"
+    ],
+    "correctAnswer": "X = AgCN; Z = C2H5NC",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 61,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Which of the following noble gases has the lowest boiling point?",
+    "image": null,
+    "options": [
+      "He",
+      "Ne",
+      "Ar",
+      "Kr"
+    ],
+    "correctAnswer": "He",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 62,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "The geometric shape of an SnCl2 molecule in the gaseous state is:",
+    "image": null,
+    "options": [
+      "Linear",
+      "Bent / V-shaped",
+      "Trigonal planar",
+      "Tetrahedral"
+    ],
+    "correctAnswer": "Bent / V-shaped",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 63,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Which among the following is a cationic detergent?",
+    "image": null,
+    "options": [
+      "Sodium lauryl sulphate",
+      "Cetyltrimethylammonium bromide",
+      "Sodium dodecylbenzenesulphonate",
+      "Glyceryl oleate"
+    ],
+    "correctAnswer": "Cetyltrimethylammonium bromide",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 64,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "The complex [Co(NH3)5(SO4)]Br and [Co(NH3)5Br]SO4 represent an example of:",
+    "image": null,
+    "options": [
+      "Linkage isomerism",
+      "Ionization isomerism",
+      "Coordination isomerism",
+      "Solvate isomerism"
+    ],
+    "correctAnswer": "Ionization isomerism",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 65,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Identify the correct statement regarding a nucleoside:",
+    "image": null,
+    "options": [
+      "It consists of a sugar unit linked to a nitrogenous base",
+      "It contains a sugar, a base, and a phosphoric acid group",
+      "It is formed by joining two nucleotide units together",
+      "It lacks a pentose sugar backbone structure entirely"
+    ],
+    "correctAnswer": "It consists of a sugar unit linked to a nitrogenous base",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 66,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Which of the following interhalogen compounds has a square pyramidal geometry?",
+    "image": null,
+    "options": [
+      "ClF3",
+      "IF5",
+      "IF7",
+      "ICl"
+    ],
+    "correctAnswer": "IF5",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 67,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "The conversion of an alkyl halide into an alcohol by treating it with aqueous KOH is classified as a/an:",
+    "image": null,
+    "options": [
+      "Nucleophilic substitution reaction",
+      "Electrophilic elimination reaction",
+      "Free radical addition reaction",
+      "Rearrangement reaction"
+    ],
+    "correctAnswer": "Nucleophilic substitution reaction",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 68,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Which of the following structures represents the stable keto-tautomer form of phenol?",
+    "image": null,
+    "options": [
+      "Cyclohexa-2,4-dien-1-one",
+      "Cyclohexa-2,5-dien-1-one",
+      "Cyclohexan-1-one",
+      "Cyclohexa-1,3-dien-1-one"
+    ],
+    "correctAnswer": "Cyclohexa-2,4-dien-1-one",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 69,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "In a face-centered cubic lattice unit cell, an atom located at the face-center position is shared by how many unit cells?",
+    "image": null,
+    "options": [
+      "2 unit cells",
+      "4 unit cells",
+      "1 unit cell",
+      "8 unit cells"
+    ],
+    "correctAnswer": "2 unit cells",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 70,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "The artificial sweetening agent that is stable under cold conditions but unstable at cooking temperature is:",
+    "image": null,
+    "options": [
+      "Saccharin",
+      "Sucralose",
+      "Aspartame",
+      "Alitame"
+    ],
+    "correctAnswer": "Aspartame",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 71,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "The total number of structural linkages of type M-O-M present in a molecule of dinitrogen pentoxide is:",
+    "image": null,
+    "correctAnswer": "1",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 72,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "How many asymmetric carbon atoms (chiral centers) are present in an open-chain molecule of D-(+)-glucose?",
+    "image": null,
+    "correctAnswer": "4",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 73,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "When 1 mole of a non-volatile solute is dissolved in 3 moles of a volatile solvent, the relative lowering of vapor pressure of the solvent is found to be X. What is the value of X written in decimal format?",
+    "image": null,
+    "correctAnswer": "0.25",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 74,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "What is the coordination number of the central metal ion in the complex entity [Fe(C2O4)3]3-?",
+    "image": null,
+    "correctAnswer": "6",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 75,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "The total number of alpha-hydrogen atoms present in a molecule of 2-methylpent-2-ene is:",
+    "image": null,
+    "correctAnswer": "9",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 76,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "The magnetic moment value for a high-spin d5 transition metal complex entity in Bohr Magneton units is expected to be X. Find the value of X rounded to two decimal places.",
+    "image": null,
+    "correctAnswer": "5.92",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 77,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "Find the total number of compound(s) which will give a positive Iodoform test among the following: Ethanol, Propan-2-ol, Benzophenone, Acetophenone, Pentan-3-one.",
+    "image": null,
+    "correctAnswer": "3",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 78,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "The number of water molecules of crystallization present in one formula unit of Mohr's salt is:",
+    "image": null,
+    "correctAnswer": "6",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 79,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "The standard reduction potentials of three metallic elements A, B, and C are +0.34 V, -0.76 V, and -0.44 V respectively. Determine the total number of these metals that can liberate hydrogen gas upon reaction with dilute sulphuric acid.",
+    "image": null,
+    "correctAnswer": "2",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 80,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "The value of the van 't Hoff factor (i) for a completely dissociated sample of potassium hexacyanoferrate(II) in an aqueous solution is:",
+    "image": null,
+    "correctAnswer": "5",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 81,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "How many moles of AgCl precipitate will be formed when an excess of AgNO3 solution is added to 1 mole of the complex compound [Co(NH3)5Cl]Cl2?",
+    "image": null,
+    "correctAnswer": "2",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 82,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "The rate of a certain chemical reaction doubles when the temperature is raised from 300 K to 310 K. Calculate the activation energy (Ea) in kJ/mol. (Take R = 8.314 J K^-1 mol^-1, log 2 = 0.3010, 2.303 * 8.314 * 300 * 310 / 10 = X; solve for Ea to nearest whole number)",
+    "image": null,
+    "correctAnswer": "54",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 83,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "The total number of structural isomers possible for an aromatic compound having the molecular formula C7H8O which can react with neutral FeCl3 to give a characteristic coloration is:",
+    "image": null,
+    "correctAnswer": "3",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 84,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "The pH of a 0.001 M mono-acidic weak base solution is 10 at 298 K. The degree of ionization (α) of the weak base is equal to X. Find the value of X.",
+    "image": null,
+    "correctAnswer": "0.1",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 85,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "The value of the spin-only magnetic moment of a central metal ion in a low-spin d6 octahedral complex field in Bohr Magneton units is:",
+    "image": null,
+    "correctAnswer": "0",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 86,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "A buffer solution is prepared by mixing equal volumes of 0.2 M acetic acid and 0.1 M sodium acetate. If the pKa of acetic acid is 4.74, find the pH of the resulting buffer solution. (Given log 2 = 0.3010)",
+    "image": null,
+    "correctAnswer": "4.44",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 87,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "The total number of peptide bonds present in a molecule of a linear tripeptide synthesized from three distinct amino acid units is:",
+    "image": null,
+    "correctAnswer": "2",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 88,
+    "section": "Chemistry",
+    "type": "numerical",
+    "question": "When 0.5 faraday of electricity is passed through an aqueous solution of CuSO4 using platinum electrodes, the total number of moles of copper metal deposited at the cathode is X. Find the value of X.",
+    "image": null,
+    "correctAnswer": "0.25",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 89,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "Mixture of chloroform and acetone forms a solution with negative deviation from Raoult's law due to :",
+    "image": null,
+    "options": [
+      "Increase in escaping tendency of molecules of each component.",
+      "Formation of hydrogen bonding between acetone and chloroform",
+      "Stronger intermolecular forces between chloroform molecules than those between chloroform and acetone molecules.",
+      "Repulsive forces."
+    ],
+    "correctAnswer": "Formation of hydrogen bonding between acetone and chloroform",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 90,
+    "section": "Chemistry",
+    "type": "mcq",
+    "question": "The number of chlorine atoms present in the organic products X and Y of the following reactions, respectively, are:",
+    "image": "benzene_chlorination_q90.png",
+    "options": [
+      "3 and 3",
+      "6 and 3",
+      "6 and 6",
+      "3 and 6"
+    ],
+    "correctAnswer": "6 and 6",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 91,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "In angiosperms, root hairs arise from which one of the following regions of the root?",
+    "options": [
+      "The root cap zone",
+      "The region of meristematic activity",
+      "The region of elongation",
+      "The region of maturation"
+    ],
+    "correctAnswer": "The region of maturation",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 92,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "In which one of the following, the ovules are not enclosed by an ovary wall and remain exposed?",
+    "image": null,
+    "options": [
+      "Funaria",
+      "Pinus",
+      "Selaginella",
+      "Wolffia"
+    ],
+    "correctAnswer": "Pinus",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 93,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "In the lac operon, the z gene codes for",
+    "image": null,
+    "options": [
+      "permease",
+      "transacetylase",
+      "beta-galactosidase",
+      "the repressor of lac operon"
+    ],
+    "correctAnswer": "beta-galactosidase",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 94,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Exploring molecular, genetic and species-level diversity for products of economic importance is called",
+    "image": null,
+    "options": [
+      "Biofortification",
+      "Bioremediation",
+      "Bioprospecting",
+      "Biomagnification"
+    ],
+    "correctAnswer": "Bioprospecting",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 95,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList-I:\nA. Genetically modified organism\nB. Thermostable DNA polymerase\nC. Ti plasmid\nD. pBR322\n\nList-II:\nI. Agrobacterium tumefaciens\nII. Bt cotton\nIII. Thermus aquaticus\nIV. Escherichia coli\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-II, B-III, C-I, D-IV",
+      "A-II, B-I, C-IV, D-III",
+      "A-I, B-IV, C-III, D-II",
+      "A-I, B-II, C-IV, D-III"
+    ],
+    "correctAnswer": "A-II, B-III, C-I, D-IV",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 96,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList I:\nA. Productivity\nB. Net primary productivity\nC. Gross primary productivity\nD. Secondary productivity\n\nList II:\nI. Gross primary productivity minus respiration losses\nII. Rate of formation of new organic matter by consumers\nIII. Rate of biomass production\nIV. Rate of production of organic matter during photosynthesis\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-III, B-I, C-IV, D-II",
+      "A-I, B-II, C-III, D-IV",
+      "A-I, B-III, C-IV, D-II",
+      "A-III, B-I, C-II, D-IV"
+    ],
+    "correctAnswer": "A-III, B-I, C-IV, D-II",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 97,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Since the origin and diversification of life on Earth, there have been five episodes of mass extinction of species. How is the sixth extinction, which is in progress, different from the previous episodes?",
+    "image": null,
+    "options": [
+      "The present net species extinction rate is zero.",
+      "The current species extinction rate is nearly 10 times faster than in previous episodes.",
+      "The present species extinction rates are 100 to 1000 times faster than in the pre-human times.",
+      "The current species extinction rates are far lower than those in previous episodes."
+    ],
+    "correctAnswer": "The present species extinction rates are 100 to 1000 times faster than in the pre-human times.",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 98,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Alpha-helix is found in which level of protein structure?",
+    "image": null,
+    "options": [
+      "Secondary structure",
+      "Tertiary structure",
+      "Primary structure",
+      "Quaternary structure"
+    ],
+    "correctAnswer": "Secondary structure",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 99,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "The main function of bulliform cells in grasses is:",
+    "image": null,
+    "options": [
+      "to make the leaf impermeable to fungal spores.",
+      "to transport water.",
+      "to perform photosynthesis.",
+      "to minimize water loss during water stress."
+    ],
+    "correctAnswer": "to minimize water loss during water stress.",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 100,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Identify the correct sequence of steps in each cycle of Polymerase Chain Reaction:",
+    "image": null,
+    "options": [
+      "Extension → Annealing → Denaturation",
+      "Annealing → Denaturation → Extension",
+      "Denaturation → Extension → Annealing",
+      "Denaturation → Annealing → Extension"
+    ],
+    "correctAnswer": "Denaturation → Annealing → Extension",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 101,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList-I (Phase of cell cycle):\nA. G1 phase\nB. S phase\nC. G2 Phase\nD. M phase\n\nList-II (Activity):\nI. Actual cell division occurs\nII. Cell is metabolically active and continuously grows but does not replicate its DNA\nIII. Synthesis of DNA occurs and the amount of DNA per cell doubles\nIV. Proteins are synthesized while cell growth continues\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-IV, B-I, C-II, D-III",
+      "A-I, B-II, C-III, D-IV",
+      "A-III, B-IV, C-I, D-II",
+      "A-II, B-III, C-IV, D-I"
+    ],
+    "correctAnswer": "A-II, B-III, C-IV, D-I",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 102,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which of the following statements are correct?\nA. The Amazon rainforest being cut and cleared for cultivation of soyabeans is an example of habitat loss.\nB. Steller's sea cow and passenger pigeon became extinct due to over-exploitation by humans.\nC. The Nile perch introduced into Lake Victoria in East Africa helped in population growth of cichlid fish in the lake.\nD. Water hyacinth is an invasive species.\nE. When a species becomes extinct, the plant and animal species associated with it are not affected.\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A, B and E only",
+      "A, B and D only",
+      "C, D and E only",
+      "B, C and D only"
+    ],
+    "correctAnswer": "A, B and D only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 103,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which of the following statements are correct with reference to a transcription unit?\nA. A transcription unit in DNA is defined primarily by three regions: promoter, structural gene and terminator.\nB. The promoter is said to be located towards the 5'-end of the structural gene.\nC. The promoter is a DNA sequence that provides binding site for RNA polymerase.\nD. The promoter defines the template and coding strands.\nE. The terminator is located towards the 3'-end of the coding strand and it defines the end of the process of transcription.\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A, B, C and D only",
+      "A, C, D and E only",
+      "B, C, D and E only",
+      "A, B, C, D and E"
+    ],
+    "correctAnswer": "A, B, C, D and E",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 104,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which one of the following statements is not true about the universal rules of binomial nomenclature?",
+    "image": null,
+    "options": [
+      "Biological names are generally in Latin",
+      "Both the words in a biological name, when handwritten, are separately underlined or printed in italics",
+      "The specific epithet in the biological name starts with a small letter",
+      "The first word in the biological name represents the specific epithet, while the second component denotes the genus"
+    ],
+    "correctAnswer": "The first word in the biological name represents the specific epithet, while the second component denotes the genus",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 105,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList-I:\nA. Decomposition\nB. Detritus\nC. Mineralisation\nD. Humification\n\nList-II:\nI. Accumulation of dark coloured amorphous colloidal substance\nII. Release of inorganic nutrients by the activity of microbes in soil\nIII. Breaking down of complex organic matter into inorganic substances.\nIV. Dead remains of plants and animals including fecal matter\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-IV, B-III, C-I, D-II",
+      "A-III, B-IV, C-II, D-I",
+      "A-I, B-II, C-III, D-IV",
+      "A-III, B-II, C-I, D-IV"
+    ],
+    "correctAnswer": "A-III, B-IV, C-II, D-I",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 106,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which one of the following is the site for active ribosomal RNA synthesis?",
+    "image": null,
+    "options": [
+      "Centrosome",
+      "Chromatin",
+      "Nucleolus",
+      "Kinetochore"
+    ],
+    "correctAnswer": "Nucleolus",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 107,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "2(C51H98O6) + 145 O2 → 102 CO2 + 98 H2O + energy\nThe Respiratory Quotient (RQ) of a biomolecule used for respiration, as per the above equation would be :",
+    "image": null,
+    "options": [
+      "Between 0.5 and 0.95",
+      "Less than 0.5",
+      "1.0",
+      "Between 1.25 and 2"
+    ],
+    "correctAnswer": "Between 0.5 and 0.95",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 108,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList-I:\nA. Incomplete dominance\nB. Co-dominance\nC. Pleiotropy\nD. Polygenic inheritance\n\nList-II:\nI. Human skin colour\nII. Inheritance of flower colour in Antirrhinum sp.\nIII. Phenylketonuria disease in humans\nIV. ABO blood groups\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-II, B-IV, C-III, D-I",
+      "A-I, B-III, C-II, D-IV",
+      "A-I, B-IV, C-III, D-II",
+      "A-II, B-I, C-III, D-IV"
+    ],
+    "correctAnswer": "A-II, B-IV, C-III, D-I",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 109,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Arrange the following steps of DNA fingerprinting in a correct sequence.\nA. Isolation of DNA and its digestion by restriction endonucleases.\nB. Hybridisation using a labelled VNTR probe.\nC. Transferring of separated DNA fragments to synthetic membranes.\nD. Detection of hybridised DNA fragments by autoradiography.\nE. Separation of DNA fragments by electrophoresis.\n\nChoose the correct answer from the options given below :",
+    "image": null,
+    "options": [
+      "A, B, D, C, E",
+      "A, D, B, E, C",
+      "A, E, C, B, D",
+      "A, E, B, C, D"
+    ],
+    "correctAnswer": "A, E, C, B, D",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 110,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which of the following statements are correct with reference to packaging of DNA helix ?\nA. Histones are organized to form a unit of eight molecules called histone octamer.\nB. Histones are negatively charged basic proteins.\nC. Histones are rich in the basic amino acid residues - lysine and arginine.\nD. The positively charged DNA is wrapped around the histone octamer to form nucleosome.\nE. The packaging of chromatin at higher levels requires an additional set of proteins called non-histone chromosomal proteins.\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A, C and E only",
+      "B, D and E only",
+      "C, D and E only",
+      "A, B and D only"
+    ],
+    "correctAnswer": "A, C and E only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 111,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Find the incorrect statement(s) about photosynthesis from the following:\nA. The water splitting complex is associated with PS I.\nB. C4 plants use the C3 pathway of CO2 fixation as the main biosynthetic pathway.\nC. In C4 plants, photorespiration does not occur.\nD. C3 plants exhibit 'Kranz' anatomy.\nE. ATP synthesis in chloroplast occurs through chemiosmosis.\n\nChoose the answer from the options given below:",
+    "image": null,
+    "options": [
+      "B and C only",
+      "B only",
+      "B and E only",
+      "A and D only"
+    ],
+    "correctAnswer": "A and D only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 112,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Arrange the following steps of somatic hybridisation in a correct sequence.\nA. Digestion of cell walls.\nB. Isolation of naked protoplasts.\nC. Fusion of protoplasts to get hybrid protoplast.\nD. Isolation of single cells from two different varieties of plants.\nE. Growing of hybrid protoplast to form a new plant.\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "D, A, B, C, E",
+      "E, B, A, D, C",
+      "D, B, A, E, C",
+      "E, A, B, C, D"
+    ],
+    "correctAnswer": "D, A, B, C, E",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 113,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Match List-I with List-II:\nList-I:\nA. Conjunctive tissue\nB. Casparian strips\nC. Subsidiary cells\nD. Starch sheath\n\nList-II:\nI. Specialised cells in the vicinity of guard cells\nII. Endodermal cells rich in starch\nIII. Tissue between xylem and phloem\nIV. Endodermal cells with suberin deposition\n\nChoose the correct answer from the options given below :",
+    "image": null,
+    "options": [
+      "A-IV, B-III, C-I, D-II",
+      "A-III, B-IV, C-II, D-I",
+      "A-III, B-IV, C-I, D-II",
+      "A-IV, B-III, C-II, D-I"
+    ],
+    "correctAnswer": "A-III, B-IV, C-I, D-II",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 114,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which one of the following is not a characteristic of plant cells in the phase of elongation?",
+    "image": null,
+    "options": [
+      "New cell wall deposition",
+      "Cell enlargement",
+      "Increased vacuolation",
+      "Large conspicuous nuclei"
+    ],
+    "correctAnswer": "Large conspicuous nuclei",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 115,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Match List-I with List-II:\nList-I (Growth Regulator):\nA. 2,4-D\nB. GA3\nC. Kinetin\nD. ABA\n\nList-II (Function/Effect):\nI. Brewing industry\nII. Stimulation of stomatal closure\nIII. Herbicide\nIV. Nutrient mobilisation\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-III, B-I, C-IV, D-II",
+      "A-IV, B-III, C-II, D-I",
+      "A-I, B-IV, C-III, D-II",
+      "A-I, B-II, C-IV, D-III"
+    ],
+    "correctAnswer": "A-III, B-I, C-IV, D-II",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 116,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "The enzyme required for carboxylation in the Calvin cycle is",
+    "image": null,
+    "options": [
+      "Hexokinase",
+      "PEP carboxylase",
+      "RuBP carboxylase - oxygenase",
+      "Carboxypeptidase"
+    ],
+    "correctAnswer": "RuBP carboxylase - oxygenase",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 117,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "How many ATP and NADPH molecules are required to make one molecule of glucose through the Calvin pathway?",
+    "image": null,
+    "options": [
+      "18 ATP and 12 NADPH",
+      "12 ATP and 18 NADPH",
+      "24 ATP and 18 NADPH",
+      "6 ATP and 12 NADPH"
+    ],
+    "correctAnswer": "18 ATP and 12 NADPH",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 118,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which of the following floral formula is the correct floral formula of Solanaceae family?",
+    "image": "solanaceae_floral_formula_q118.png",
+    "options": [
+      "⊕ ⚥ K(5) C(5) A5 G(2)",
+      "⊕ ⚥ K(5) C(5) A5 G(2) [with C-A epipetalous arc]",
+      "⚥ ⊕ K5 C5 A5 G(2)",
+      "⊕ ⚥ K5 C(5) A5 G(2)"
+    ],
+    "correctAnswer": "⊕ ⚥ K(5) C(5) A5 G(2) [with C-A epipetalous arc]",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 119,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which of the following is an in situ conservation method?",
+    "image": null,
+    "options": [
+      "Sacred Groves",
+      "Wildlife Safari Parks",
+      "Botanical Gardens",
+      "Seed Banks"
+    ],
+    "correctAnswer": "Sacred Groves",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 120,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which of the following statements are not true regarding restriction endonucleases?\nA. They are called molecular scissors.\nB. These are the enzymes responsible for restricting the growth of bacteriophages in E. coli.\nC. They cut the DNA only at the centre of the palindromic sites.\nD. They remove nucleotides only from the ends of DNA fragments.\nE. They recognise specific palindromic base-pair sequences.\n\nChoose the answer from the options given below:",
+    "image": null,
+    "options": [
+      "A and B only",
+      "A and E only",
+      "D and E only",
+      "C and D only"
+    ],
+    "correctAnswer": "C and D only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 121,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "In racemose inflorescence, ___________.",
+    "image": null,
+    "options": [
+      "The main axis terminates in a flower",
+      "Flowers are solitary",
+      "The growth is limited",
+      "Flowers are borne in an acropetal succession"
+    ],
+    "correctAnswer": "Flowers are borne in an acropetal succession",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 122,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Arrange the following in the correct developmental sequence related to microsporogenesis:\nA. Microspore tetrads\nB. Sporogenous tissue\nC. Pollen grains\nD. Pollen mother cells\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "D, A, C, B",
+      "B, D, A, C",
+      "B, D, C, A",
+      "A, D, C, B"
+    ],
+    "correctAnswer": "B, D, A, C",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 123,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Identify the correct statements about biomolecules.\nA. Lipids are generally water soluble.\nB. Proteins are polypeptides.\nC. Polysaccharides are long chains of sugars.\nD. Adenine and guanine are substituted pyrimidines.\nE. Almost all enzymes are proteins.\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "B, D and E only",
+      "B, C and E only",
+      "A, B and C only",
+      "C, D and E only"
+    ],
+    "correctAnswer": "B, C and E only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 124,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which of the following statements are true with reference to the sex-determination in honeybees?\nA. An offspring formed from the union of a sperm and an egg, develops as a female (queen or worker).\nB. An unfertilized egg develops as a male by parthenogenesis.\nC. A male has half the number of chromosomes than that of a female.\nD. Males produce sperms by meiosis.\nE. Honeybees have a haplodiploid sex-determination system.\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A, B, C and E only",
+      "B, C, D and E only",
+      "A, B, C and D only",
+      "A, B, D and E only"
+    ],
+    "correctAnswer": "A, B, C and E only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 125,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Heterophyllous development in response to environment is an example of which of the following phenomena?",
+    "image": null,
+    "options": [
+      "Redifferentiation",
+      "Elasticity",
+      "Dedifferentiation",
+      "Plasticity"
+    ],
+    "correctAnswer": "Plasticity",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 126,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which of the following statements are correct regarding amino acids?\nA. They are substituted methanes.\nB. Serine is an aromatic amino acid.\nC. Valine is a neutral amino acid.\nD. Lysine is an acidic amino acid.\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "C and D only",
+      "B and C only",
+      "A and C only",
+      "A and B only"
+    ],
+    "correctAnswer": "A and C only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 127,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "\"The Evil Quartet\" of biodiversity loss includes which of the following?",
+    "image": null,
+    "options": [
+      "Over-exploitation; Alien species invasions; Air pollution; Co-extinctions",
+      "Habitat loss and fragmentation; Air pollution; Water pollution; Co-extinctions",
+      "Habitat loss and fragmentation; over-exploitation; Alien species invasions; Co-extinctions",
+      "Over-exploitation; Alien species invasions; Soil pollution; Co-extinctions"
+    ],
+    "correctAnswer": "Habitat loss and fragmentation; over-exploitation; Alien species invasions; Co-extinctions",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 128,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Match List-I with List-II:\nList-I (Process):\nA. Glycolysis\nB. ETS\nC. Accumulation of protons\nD. Krebs' cycle\n\nList-II (Location):\nI. Inner mitochondrial membrane\nII. Mitochondrial matrix\nIII. Cytoplasm\nIV. Intermembrane space\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-IV, B-II, C-I, D-III",
+      "A-II, B-III, C-IV, D-I",
+      "A-III, B-I, C-IV, D-II",
+      "A-I, B-IV, C-III, D-II"
+    ],
+    "correctAnswer": "A-III, B-I, C-IV, D-II",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 129,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which one of the following is a triploid cell?",
+    "image": null,
+    "options": [
+      "Synergid",
+      "Central cell",
+      "Zygote",
+      "Primary endosperm cell"
+    ],
+    "correctAnswer": "Primary endosperm cell",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 130,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which one of the following types of pollination brings genetically different types of pollen grains to the stigma?",
+    "image": null,
+    "options": [
+      "Autogamy",
+      "Xenogamy",
+      "Geitonogamy",
+      "Cleistogamy"
+    ],
+    "correctAnswer": "Xenogamy",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 131,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList I (Placentation):\nA. Marginal\nB. Axile\nC. Parietal\nD. Basal\n\nList II (Example):\nI. Mustard\nII. Pea\nIII. Marigold\nIV. Lemon\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-II, B-IV, C-I, D-III",
+      "A-I, B-III, C-II, D-IV",
+      "A-III, B-I, C-IV, D-II",
+      "A-IV, B-II, C-I, D-III"
+    ],
+    "correctAnswer": "A-II, B-IV, C-I, D-III",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 132,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "The main criteria used for Five Kingdom Classification proposed By R.H. Whittaker (1969) included:\nA. Cell structure\nB. Body organization\nC. Presence of flagellum\nD. Reproduction\nE. Phylogenetic relationships\n\nChoose the correct answer from the options given below :",
+    "image": null,
+    "options": [
+      "A, B, C, D and E",
+      "B, C and D only",
+      "A, B, D and E only",
+      "A, B and E only"
+    ],
+    "correctAnswer": "A, B, D and E only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 133,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList I:\nA. Trypsin\nB. Morphine\nC. Concanavalin A\nD. Collagen\n\nList II:\nI. Intercellular ground substance\nII. Lectin\nIII. Enzyme\nIV. Alkaloid\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-III, B-IV, C-II, D-I",
+      "A-I, B-II, C-III, D-IV",
+      "A-IV, B-III, C-II, D-I",
+      "A-III, B-II, C-IV, D-I"
+    ],
+    "correctAnswer": "A-III, B-IV, C-II, D-I",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 134,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which of the following statements are correct with respect to DNA separation, isolation and visualization?\nA. The cutting of DNA is done by molecular scissors.\nB. The DNA fragments separate according to their size in an agarose gel, upon electrophoresis.\nC. The separated DNA fragments can be seen without staining when exposed to UV light.\nD. The separated DNA fragments, when stained with ethidium bromide, can be seen in visible light.\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "B and D only",
+      "A and B only",
+      "B and C only",
+      "A and D only"
+    ],
+    "correctAnswer": "A and B only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 135,
+    "section": "Biology",
+    "type": "mcq",
+    "question": "Which one of the following disorders is caused by the substitution of Glutamic acid (Glu) by Valine (Val) at the sixth position of the beta globin chain of the haemoglobin molecule?",
+    "image": null,
+    "options": [
+      "Thalassemia",
+      "Sickle-cell anaemia",
+      "Phenylketonuria",
+      "Haemophilia"
+    ],
+    "correctAnswer": "Sickle-cell anaemia",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+
+  {
+    "id": 139,
+    "section": "A",
+    "type": "mcq",
+    "question": "The following are the stages of life cycle of Plasmodium. Arrange the stages in the proper order.\n\nA. The parasites reproduce asexually in RBCs, bursting the cells.\nB. The parasites reproduce asexually in liver cells, bursting the cells and releasing into blood.\nC. Gametocytes develop in RBCs.\nD. Sporozoites reach the liver through the blood.\nE. Female mosquito injects sporozoites into humans during bte.\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "E, D, B, A, C",
+      "A, B, C, D, E",
+      "C, A, B, D, E",
+      "E, C, D, B, A"
+    ],
+    "correctAnswer": "E, D, B, A, C",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 140,
+    "section": "A",
+    "type": "mcq",
+    "question": "Insertion of a foreign DNA at BamHI site in an E.coli cloning vector pBR322 results in the loss of antibiotic resistance towards:",
+    "image": null,
+    "options": [
+      "Ampicillin and tetracycline",
+      "Ampicillin",
+      "Tetracycline",
+      "Gentamycin"
+    ],
+    "correctAnswer": "Tetracycline",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 141,
+    "section": "A",
+    "type": "mcq",
+    "question": "The following reaction depicts the activity of a particular class of enzymes:\n\n  X   Y\n  |   |\n  C - C  ---E---> X - Y  +  C = C\n(Substrate)       (Product)  (Product)\n\nIdentify the enzymes class 'E' from the following options:",
+    "image": null,
+    "options": [
+      "Transferases",
+      "Isomerases",
+      "Lyases",
+      "Ligases"
+    ],
+    "correctAnswer": "Lyases",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 142,
+    "section": "A",
+    "type": "mcq",
+    "question": "The specific receptors for neurotransmitters in a synapse are present on _________.",
+    "image": null,
+    "options": [
+      "Schwann cell",
+      "Pre-synaptic membrane",
+      "Myelin sheath",
+      "Post-synaptic membrane"
+    ],
+    "correctAnswer": "Post-synaptic membrane",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 143,
+    "section": "A",
+    "type": "mcq",
+    "question": "What is the probability of having children with 'O' blood group, where both mother and father are heterozygous for 'A' and 'B' blood group, respectively?",
+    "image": null,
+    "options": [
+      "25%",
+      "0%",
+      "75%",
+      "50%"
+    ],
+    "correctAnswer": "25%",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 144,
+    "section": "A",
+    "type": "mcq",
+    "question": "Match List-I with List-II.\n\nList-I (Respiratory Volume):\nA. ERV (Expiratory Reserve Volume)\nB. RV (Residual Volume)\nC. IRV (Inspiratory Reserve Volume)\nD. TV (Tidal Volume)\n\nList-II (Capacity in mL):\nI. 2500-3000 mL\nII. 500 mL\nIII. 1000-1100 mL\nIV. 1100-1200 mL\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-III, B-IV, C-I, D-II",
+      "A-III, B-I, C-IV, D-II",
+      "A-I, B-III, C-II, D-IV",
+      "A-I, B-II, C-III, D-IV"
+    ],
+    "correctAnswer": "A-III, B-IV, C-I, D-II",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 145,
+    "section": "A",
+    "type": "mcq",
+    "question": "Which of the following is not an example of convergent evolution?",
+    "image": null,
+    "options": [
+      "Flippers of penguins and dolphins",
+      "Eyes of octopuses and mammals",
+      "Fore limbs of whales and bats",
+      "Wings of butterflies and birds"
+    ],
+    "correctAnswer": "Fore limbs of whales and bats",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 146,
+    "section": "A",
+    "type": "mcq",
+    "question": "Male frogs can be distinguished from female frogs due to the presence of:\n\nA. Bulging eyes\nB. Vocal sacs\nC. Webbed digits in feet\nD. Copulatory pad on first digit of fore limbs\nE. Olive green-coloured skin with dark irregular spots\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "B and C only",
+      "C and E only",
+      "A and B only",
+      "B and D only"
+    ],
+    "correctAnswer": "B and D only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 147,
+    "section": "A",
+    "type": "mcq",
+    "question": "A group of researchers procured some fish like animals and upon investigation the following characters were observed:\n\nA. Endoskeleton was made of cartilage.\nB. Ectoparasitic; as they were found attached on fish skin with their circular sucking mouth.\nC. Paired fins and scales were absent, but 7 pairs of gill slits were present.\n\nWhich of the following species of animals did they consider to fit best with these characters?",
+    "image": null,
+    "options": [
+      "Scoliodon sp.",
+      "Petromyzon sp.",
+      "Exocoetus sp.",
+      "Branchiostoma sp."
+    ],
+    "correctAnswer": "Petromyzon sp.",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 148,
+    "section": "A",
+    "type": "mcq",
+    "question": "Match List I with List II with respect to chronology of evolution of life forms:\n\nList-I:\nA. About 65 mya\nB. About 500 mya\nC. About 350 mya\nD. About 320 mya\n\nList-II:\nI. Jawless fish probably evolved\nII. The dinosaurs suddenly disappeared from the earth\nIII. Seaweeds and few plants probably existed\nIV. Invertebrates were formed and became active\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A(III), B(IV), C(I), D(II)",
+      "A(I), B(II), C(III), D(IV)",
+      "A(II), B(IV), C(III), D(I)",
+      "A(II), B(IV), C(I), D(III)"
+    ],
+    "correctAnswer": "A(II), B(IV), C(I), D(III)",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 149,
+    "section": "A",
+    "type": "mcq",
+    "question": "Match List I and List II\n\nList-I\nA. Progestasert\nB. Multiload 375\nC. Diaphragm\nD. Saheli\n\nList-II\nI. Barrier made of rubber used by females\nII. Oral contraceptive\nIII. Hormone releasing IUD\nIV. Copper releasing IUD\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A(III), B(IV), C(I), D(II)",
+      "A(IV), B(II), C(I), D(III)",
+      "A(IV), B(III), C(I), D(II)",
+      "A(III), B(IV), C(II), D(I)"
+    ],
+    "correctAnswer": "A(III), B(IV), C(I), D(II)",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 150,
+    "section": "A",
+    "type": "mcq",
+    "question": "The WBC count of a person's blood sample is 8000/cu mm. How many eosinophils and lymphocytes would be in the same blood sample approximately?",
+    "image": null,
+    "options": [
+      "300-500/cu mm and 1200-1500/cu mm respectively",
+      "160-240/cu mm and 1600-2000/cu mm respectively",
+      "300-500/cu mm and 500-700/cu mm respectively",
+      "100-120/cu mm and 160-200/cu mm respectively"
+    ],
+    "correctAnswer": "160-240/cu mm and 1600-2000/cu mm respectively",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 151,
+    "section": "A",
+    "type": "mcq",
+    "question": "Match List I with List II:\n\nList I (Drug)\nA. Nicotine\nB. Morphine\nC. Heroin\nD. Cocaine\n\nList II (Effect)\nI. Causes sense of euphoria and increased energy\nII. Stimulates adrenal gland to release catecholamines into blood circulation\nIII. Effective sedative and painkiller\nIV. A depressant; slows down body function\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-III, B-II, C-IV, D-I",
+      "A-II, B-III, C-I, D-IV",
+      "A-II, B-III, C-IV, D-I",
+      "A-III, B-II, C-I, D-IV"
+    ],
+    "correctAnswer": "A-II, B-III, C-IV, D-I",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 152,
+    "section": "A",
+    "type": "mcq",
+    "question": "The human protein named α-1-antitrypsin, obtained from transgenic animals, is used for the treatment of _________.",
+    "image": null,
+    "options": [
+      "Emphysema",
+      "Alzheimer's disease",
+      "Rheumatoid arthritis",
+      "Cystic fibrosis"
+    ],
+    "correctAnswer": "Emphysema",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 153,
+    "section": "A",
+    "type": "mcq",
+    "question": "Select the set of fishes which belong to the class Osteichthyes:",
+    "image": null,
+    "options": [
+      "Devil fish, Cuttlefish and Hagfish",
+      "Saw fish, Fighting fish and Dog fish",
+      "Starfish, Hagfish and Cuttlefish",
+      "Flying fish, Angel fish and Fighting fish"
+    ],
+    "correctAnswer": "Flying fish, Angel fish and Fighting fish",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 154,
+    "section": "A",
+    "type": "mcq",
+    "question": "Select the incorrect statements from the following:\nA. Digestive system in Platyhelminthes is incomplete.\nB. Bilateral symmetry is a characteristic feature of adult Echinoderms.\nC. Pseudocoelom is possessed by Aschelminthes.\nD. Notochord is persistent throughout life in the class Chondrichthyes.\nE. Members of class Reptilia maintain a constant body temperature.\n\nChoose the answer from the options given below:",
+    "image": null,
+    "options": [
+      "A and C only",
+      "B and E only",
+      "C and D only",
+      "B and D only"
+    ],
+    "correctAnswer": "B and E only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 155,
+    "section": "A",
+    "type": "mcq",
+    "question": "Non-membrane bound cell organelles found in both prokaryotic and eukaryotic cells are _________.",
+    "image": null,
+    "options": [
+      "Ribosomes",
+      "Lysosomes",
+      "Centrosomes",
+      "Mitochondria"
+    ],
+    "correctAnswer": "Ribosomes",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 156,
+    "section": "A",
+    "type": "mcq",
+    "question": "Which of the following equations depicts Verhulst-Pearl logistic population growth?",
+    "image": null,
+    "options": [
+      "dN/dt = rN((K+N)/K)",
+      "dN/dt = rN((K-N)/K)",
+      "dN/dt = rN((K-N)/N)",
+      "dN/dt = rN(K/(K-N))"
+    ],
+    "correctAnswer": "dN/dt = rN((K-N)/K)",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 157,
+    "section": "A",
+    "type": "mcq",
+    "question": "Select the incorrect statement with reference to Rh grouping.\nA. Erythroblastosis foetalis is a condition observed having foetus with Rh-ve blood and mother with Rh+ve blood.\nB. Rh antigen is observed on RBCs in the majority of human beings.\nC. Before blood transfusion, Rh group should also be matched.\nD. Rh incompatibility is observed when a pregnant mother is Rh-ve and the foetus is Rh+ve.\nE. Erythroblastosis foetalis can be avoided by administering anti-Rh antibodies to the mother immediately after the delivery of the second child.\n\nChoose the answer from the options given below:",
+    "image": null,
+    "options": [
+      "C and D only",
+      "A and B only",
+      "A and E only",
+      "B and C only"
+    ],
+    "correctAnswer": "A and E only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 158,
+    "section": "A",
+    "type": "mcq",
+    "question": "Match List I with List II:\n\nList I (Bioactive molecules)\nA. Streptokinase\nB. Statins\nC. Lipases\nD. Cyclosporin A\n\nList II (Importance)\nI. Immunosuppressive agent\nII. Removal of clots from the blood vessels\nIII. Blood cholesterol-lowering agent\nIV. Detergent formulations\n\nChoose the correct answer from the options given below:",
+    "image": null,
+    "options": [
+      "A-II, B-III, C-I, D-IV",
+      "A-IV, B-III, C-II, D-I",
+      "A-III, B-II, C-IV, D-I",
+      "A-II, B-III, C-IV, D-I"
+    ],
+    "correctAnswer": "A-II, B-III, C-IV, D-I",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 149,
+    "section": "A",
+    "type": "mcq",
+    "question": "Match List I and List II:\nList-I:\nA. Progestasert\nB. Multiload 375\nC. Diaphragm\nD. Saheli\n\nList-II:\nI. Barrier made of rubber used by females\nII. Oral contraceptive\nIII. Hormone releasing IUD\nIV. Copper releasing IUD",
+    "image": null,
+    "options": [
+      "A(III), B(IV), C(I), D(II)",
+      "A(IV), B(II), C(I), D(III)",
+      "A(IV), B(III), C(I), D(II)",
+      "A(III), B(IV), C(II), D(I)"
+    ],
+    "correctAnswer": "A(III), B(IV), C(I), D(II)",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 150,
+    "section": "A",
+    "type": "mcq",
+    "question": "The WBC count of a person's blood sample is 8000/cu mm. How many eosinophils and lymphocytes would be in the same blood sample approximately?",
+    "image": null,
+    "options": [
+      "300-500/cu mm and 1200-1500/cu mm respectively",
+      "160-240/cu mm and 1600-2000/cu mm respectively",
+      "300-500/cu mm and 500-700/cu mm respectively",
+      "100-120/cu mm and 160-200/cu mm respectively"
+    ],
+    "correctAnswer": "160-240/cu mm and 1600-2000/cu mm respectively",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 151,
+    "section": "A",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList I (Drug):\nA. Nicotine\nB. Morphine\nC. Heroin\nD. Cocaine\n\nList II (Effect):\nI. Causes sense of euphoria and increased energy\nII. Stimulates adrenal gland to release catecholamines into blood circulation\nIII. Effective sedative and painkiller\nIV. A depressant; slows down body function",
+    "image": null,
+    "options": [
+      "A-III, B-II, C-IV, D-I",
+      "A-II, B-III, C-I, D-IV",
+      "A-II, B-III, C-IV, D-I",
+      "A-III, B-II, C-I, D-IV"
+    ],
+    "correctAnswer": "A-II, B-III, C-IV, D-I",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 152,
+    "section": "A",
+    "type": "mcq",
+    "question": "The human protein named α-1-antitrypsin, obtained from transgenic animals, is used for the treatment of ______.",
+    "image": null,
+    "options": [
+      "Emphysema",
+      "Alzheimer's disease",
+      "Rheumatoid arthritis",
+      "Cystic fibrosis"
+    ],
+    "correctAnswer": "Emphysema",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 153,
+    "section": "A",
+    "type": "mcq",
+    "question": "Select the set of fishes which belong to the class Osteichthyes:",
+    "image": null,
+    "options": [
+      "Devil fish, Cuttlefish and Hagfish",
+      "Saw fish, Fighting fish and Dog fish",
+      "Starfish, Hagfish and Cuttlefish",
+      "Flying fish, Angel fish and Fighting fish"
+    ],
+    "correctAnswer": "Flying fish, Angel fish and Fighting fish",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 154,
+    "section": "A",
+    "type": "mcq",
+    "question": "Select the incorrect statements from the following:\nA. Digestive system in Platyhelminthes is incomplete.\nB. Bilateral symmetry is a characteristic feature of adult Echinoderms.\nC. Pseudocoelom is possessed by Aschelminthes.\nD. Notochord is persistent throughout life in the class Chondrichthyes.\nE. Members of class Reptilia maintain a constant body temperature.",
+    "image": null,
+    "options": [
+      "A and C only",
+      "B and E only",
+      "C and D only",
+      "B and D only"
+    ],
+    "correctAnswer": "B and E only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 155,
+    "section": "A",
+    "type": "mcq",
+    "question": "Non-membrane bound cell organelles found in both prokaryotic and eukaryotic cells are ______.",
+    "image": null,
+    "options": [
+      "Ribosomes",
+      "Lysosomes",
+      "Centrosomes",
+      "Mitochondria"
+    ],
+    "correctAnswer": "Ribosomes",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 156,
+    "section": "A",
+    "type": "mcq",
+    "question": "Which of the following equations depicts Verhulst-Pearl logistic population growth?",
+    "image": null,
+    "options": [
+      "dN/dt = rN(K + N)/K",
+      "dN/dt = rN(K - N)/K",
+      "dN/dt = rN(K - N)/N",
+      "dN/dt = rN(K / (K - N))"
+    ],
+    "correctAnswer": "dN/dt = rN(K - N)/K",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 157,
+    "section": "A",
+    "type": "mcq",
+    "question": "Select the incorrect statement with reference to Rh grouping.\nA. Erythroblastosis foetalis is a condition observed having foetus with Rh-ve blood and mother with Rh+ve blood.\nB. Rh antigen is observed on RBCs in the majority of human beings.\nC. Before blood transfusion, Rh group should also be matched.\nD. Rh incompatibility is observed when a pregnant mother is Rh-ve and the foetus is Rh+ve.\nE. Erythroblastosis foetalis can be avoided by administering anti-Rh antibodies to the mother immediately after the delivery of the second child.",
+    "image": null,
+    "options": [
+      "C and D only",
+      "A and B only",
+      "A and E only",
+      "B and C only"
+    ],
+    "correctAnswer": "A and E only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 158,
+    "section": "A",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList I (Bioactive molecules):\nA. Streptokinase\nB. Statins\nC. Lipases\nD. Cyclosporin A\n\nList II (Importance):\nI. Immunosuppressive agent\nII. Removal of clots from the blood vessels\nIII. Blood cholesterol-lowering agent\nIV. Detergent formulations",
+    "image": null,
+    "options": [
+      "A-II, B-III, C-I, D-IV",
+      "A-IV, B-III, C-II, D-I",
+      "A-III, B-II, C-IV, D-I",
+      "A-II, B-III, C-IV, D-I"
+    ],
+    "correctAnswer": "A-II, B-III, C-IV, D-I",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 159,
+    "section": "A",
+    "type": "mcq",
+    "question": "Match List I with List II:\nList I:\nA. Molluscs\nB. Reptiles\nC. Adult amphibians\nD. Amoeba\n\nList II:\nI. Pulmonary respiration only\nII. Branchial respiration\nIII. Cellular respiration\nIV. Pulmonary and cutaneous respiration",
+    "image": null,
+    "options": [
+      "A-II, B-I, C-IV, D-III",
+      "A-I, B-II, C-IV, D-III",
+      "A-II, B-I, C-III, D-IV",
+      "A-III, B-II, C-I, D-IV"
+    ],
+    "correctAnswer": "A-II, B-I, C-IV, D-III",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 160,
+    "section": "A",
+    "type": "mcq",
+    "question": "The sixth mutant codon of beta globin gene causing polymerization of Haemoglobin and change in RBC shape is ______.",
+    "image": null,
+    "options": [
+      "GUG",
+      "AUG",
+      "GAG",
+      "CAG"
+    ],
+    "correctAnswer": "GUG",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 161,
+    "section": "A",
+    "type": "mcq",
+    "question": "Choose the correct statements regarding muscle contraction.\nA. A motor neuron carries a signal sent by the Central Nervous System (CNS) to the sarcolemma of the muscle fibre.\nB. The neural signal generates an action potential which causes the release of Ca++ into sarcoplasm.\nC. Increase in Ca++ inactivates the actin for breaking cross bridges.\nD. Actin binds to the myosin head to form a cross bridge.\nE. Shortening of sarcomere takes place, by pulling actin filaments towards the centre of 'A' band.",
+    "image": null,
+    "options": [
+      "C and D only",
+      "A and B only",
+      "C and E only",
+      "A, B, D and E only"
+    ],
+    "correctAnswer": "A, B, D and E only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 162,
+    "section": "A",
+    "type": "mcq",
+    "question": "Which of the following statements are correct with reference to human endoskeleton?\nA. Human skull is monocondylic.\nB. The joint between any two adjoining vertebrae is a cartilaginous joint.\nC. In human beings, the number of cervical vertebrae is seven.\nD. All ribs except the last 2 pairs are bicephalic.\nE. The occipital bone of skull is articulated with atlas vertebra.",
+    "image": null,
+    "options": [
+      "B and E only",
+      "B, C and E only",
+      "C, D and E only",
+      "A, B and D only"
+    ],
+    "correctAnswer": "B, C and E only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 163,
+    "section": "A",
+    "type": "mcq",
+    "question": "Spermatogonia undergo a series of cell divisions to produce sperms. Select the correct statements from the following:\nA. Spermatogonia always undergo meiotic cell division.\nB. Primary spermatocytes divide mitotically to produce secondary spermatocytes.\nC. Secondary spermatocytes, through their second meiotic division, produce haploid spermatids.\nD. Spermatids produce spermatozoa through mitosis.\nE. Spermatids transform into spermatozoa by spermiogenesis.",
+    "image": null,
+    "options": [
+      "A and E only",
+      "C and E only",
+      "A, C and E only",
+      "B, C and D only"
+    ],
+    "correctAnswer": "C and E only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 164,
+    "section": "A",
+    "type": "mcq",
+    "question": "The JGA (Juxta Glomerular Apparatus) is a special sensitive region formed by cellular modifications in ______ related to the same nephron.",
+    "image": null,
+    "options": [
+      "Distal convoluted tubule and efferent renal arteriole",
+      "Proximal convoluted tubule and efferent renal arteriole",
+      "Proximal convoluted tubule and afferent renal arteriole",
+      "Distal convoluted tubule and afferent renal arteriole"
+    ],
+    "correctAnswer": "Distal convoluted tubule and afferent renal arteriole",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 165,
+    "section": "A",
+    "type": "mcq",
+    "question": "Which one of the following is an appropriate example of sexual deceit?",
+    "image": null,
+    "options": [
+      "Female wasp and fig",
+      "Ophrys and bumblebee",
+      "Sea anemone and clown fish",
+      "Cuckoo and crow"
+    ],
+    "correctAnswer": "Ophrys and bumblebee",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 166,
+    "section": "A",
+    "type": "mcq",
+    "question": "Choose the correct statements regarding frog's anatomy:\nA. Hepatic portal system is the special venous connection between liver and intestine.\nB. There are twelve pairs of cranial nerves arising from the brain.\nC. The ureters and oviducts open separately into the cloaca in female frogs.\nD. Hind-brain consists of cerebellum, medulla oblongata and optic lobes.\nE. Sinus venosus joins the right atrium of heart.",
+    "image": null,
+    "options": [
+      "A, B and C only",
+      "B and D only",
+      "B and C only",
+      "A, C and E only"
+    ],
+    "correctAnswer": "A, C and E only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 167,
+    "section": "A",
+    "type": "mcq",
+    "question": "Match List I with List II related to embryonic development at various months of pregnancy:\nList-I:\nA. The foetus movement starts and hair appears on the head\nB. The foetus develops limbs and digits\nC. The foetus develops external genital organs\nD. The foetus body is covered with fine hair; eyelids separate and eyelashes are formed\n\nList-II:\nI. 24 weeks of pregnancy\nII. 20 weeks of pregnancy\nIII. 8 weeks of pregnancy\nIV. 12 weeks of pregnancy",
+    "image": null,
+    "options": [
+      "A-IV, B-II, C-III, D-I",
+      "A-II, B-III, C-IV, D-I",
+      "A-III, B-II, C-IV, D-I",
+      "A-II, B-IV, C-III, D-I"
+    ],
+    "correctAnswer": "A-II, B-III, C-IV, D-I",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 168,
+    "section": "A",
+    "type": "mcq",
+    "question": "In a population of a grasshopper species, the chromosome number of some members is 23 and some other members possess 24 chromosomes. The 23 and 24 chromosome-bearing members in this species are ______.",
+    "image": null,
+    "options": [
+      "females and males, respectively",
+      "all males",
+      "males and females, respectively",
+      "all females"
+    ],
+    "correctAnswer": "males and females, respectively",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 169,
+    "section": "A",
+    "type": "mcq",
+    "question": "In which animal do haploid cells divide mitotically to produce gametes?",
+    "image": null,
+    "options": [
+      "Male honeybees",
+      "Male earthworms",
+      "Male frogs",
+      "Male grasshoppers"
+    ],
+    "correctAnswer": "Male honeybees",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 170,
+    "section": "A",
+    "type": "mcq",
+    "question": "Arrange the following cell layers/structures around the female gamete, from outer to inner side:\nA. Zona pellucida\nB. Perivitelline space\nC. Corona radiata\nD. Plasma membrane of ovum",
+    "image": null,
+    "options": [
+      "D, B, A, C",
+      "C, A, D, B",
+      "C, A, B, D",
+      "A, C, B, D"
+    ],
+    "correctAnswer": "C, A, B, D",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 171,
+    "section": "A",
+    "type": "mcq",
+    "question": "What is the reason behind production of large holes in 'Swiss Cheese'?",
+    "image": null,
+    "options": [
+      "The production of large amount of CO2 by Propionibacterium sharmanii",
+      "The production of large amount of CO2 by Clostridium butylicum",
+      "The production of large amount of CO2 and H2 by lactic acid bacteria called Lactobacillus",
+      "The production of large amount of CO2 and H2 by Trichoderma polysporum"
+    ],
+    "correctAnswer": "The production of large amount of CO2 by Propionibacterium sharmanii",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 172,
+    "section": "A",
+    "type": "mcq",
+    "question": "The toxin proteins isolated from Bacillus thuringiensis, coded by which of the following genes would control cotton bollworms and corn borer, respectively?",
+    "image": null,
+    "options": [
+      "cryIAc and cryIAb",
+      "cryIAc and cryIIAb",
+      "cryIIAb and cryIAc",
+      "cryIAc and cryIIIAb"
+    ],
+    "correctAnswer": "cryIAc and cryIAb",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 173,
+    "section": "A",
+    "type": "mcq",
+    "question": "Ecological pyramids represent the relationship between the organisms at different trophic levels and they are generally inverted for:",
+    "image": null,
+    "options": [
+      "Pyramid of number in grassland",
+      "Pyramid of energy in pond ecosystem",
+      "Pyramid of biomass in grassland",
+      "Pyramid of biomass in sea"
+    ],
+    "correctAnswer": "Pyramid of biomass in sea",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 174,
+    "section": "A",
+    "type": "mcq",
+    "question": "Choose the correct statement regarding GIFT to overcome infertility.",
+    "image": null,
+    "options": [
+      "Ova collected from a female donor are transferred to the uterus of an infertile female.",
+      "Early embryos with up to 8 blastomeres are transferred to the uterus of an infertile female.",
+      "Early embryos with up to 8 blastomeres are transferred into the fallopian tube of an infertile female.",
+      "It is the transfer of an ovum collected from a donor into the fallopian tube of another female who cannot produce ovum but can provide suitable environment for fertilization and development."
+    ],
+    "correctAnswer": "It is the transfer of an ovum collected from a donor into the fallopian tube of another female who cannot produce ovum but can provide suitable environment for fertilization and development.",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 175,
+    "section": "A",
+    "type": "mcq",
+    "question": "Choose the correct statements regarding cell organelles and their inclusions.\nA. The endomembrane system includes Golgi complex, endoplasmic reticulum and mitochondria.\nB. Rough endoplasmic reticulum bears ribosomes on its surface.\nC. Both mitochondria and plastids have circular DNA.\nD. A network of microtubules, microfilaments and intermediate filaments present in the cytoplasm is called cytoskeleton.\nE. Mitochondrion is a single membrane-bound structure.",
+    "image": null,
+    "options": [
+      "A and B only",
+      "A, B and C only",
+      "C, D and E only",
+      "B, C and D only"
+    ],
+    "correctAnswer": "B, C and D only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 176,
+    "section": "A",
+    "type": "mcq",
+    "question": "Select the correct statements regarding cell membrane in eukaryotic cell.\nA. Membrane of human RBCs has approximately 52% protein.\nB. Major phospholipids are arranged in a bilayer.\nC. Extensions of the plasma membrane into the cell form mesosomes.\nD. Tails towards the inner part of lipids are hydrophobic and thus protected from aqueous medium.\nE. Glycocalyx is present on the outer surface of the plasma membrane.",
+    "image": null,
+    "options": [
+      "C, D and E only",
+      "B, C and E only",
+      "A, B and D only",
+      "A, C and E only"
+    ],
+    "correctAnswer": "A, B and D only",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 177,
+    "section": "A",
+    "type": "mcq",
+    "question": "Match List I with List II related to muscular/skeletal system:\nList I:\nA. Tetany\nB. Arthritis\nC. Myasthenia gravis\nD. Muscular dystrophy\n\nList II:\nI. Inflammation of joints\nII. Autoimmune disorder affecting neuromuscular junction\nIII. Wild contraction in muscle due to low Ca++ in body fluid\nIV. Progressive degeneration of skeletal muscle",
+    "image": null,
+    "options": [
+      "A-III, B-I, C-II, D-IV",
+      "A-I, B-II, C-III, D-IV",
+      "A-IV, B-III, C-II, D-I",
+      "A-III, B-II, C-I, D-IV"
+    ],
+    "correctAnswer": "A-III, B-I, C-II, D-IV",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 178,
+    "section": "A",
+    "type": "mcq",
+    "question": "Evolution of human appears parallel to the progressive development of brain and language skills. As such, the evolution of individual species in the sequence of their appearance is:",
+    "image": null,
+    "options": [
+      "Ramapithecus → Homo habilis → Homo erectus → Neanderthal → Homo sapiens",
+      "Homo sapiens → Ramapithecus → Homo habilis → Neanderthal → Homo erectus",
+      "Homo habilis → Homo erectus → Ramapithecus → Neanderthal → Homo sapiens",
+      "Neanderthal → Ramapithecus → Homo habilis → Homo erectus → Homo sapiens"
+    ],
+    "correctAnswer": "Ramapithecus → Homo habilis → Homo erectus → Neanderthal → Homo sapiens",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 179,
+    "section": "A",
+    "type": "mcq",
+    "question": "The flightless bird with forelimbs modified as paddle-like structures suited for swimming is known as:",
+    "image": null,
+    "options": [
+      "Struthio",
+      "Neophron",
+      "Aptenodytes",
+      "Psittacula"
+    ],
+    "correctAnswer": "Aptenodytes",
+    "marks": 4,
+    "negativeMarks": 1
+  },
+  {
+    "id": 180,
+    "section": "A",
+    "type": "mcq",
+    "question": "Choose the correct statements regarding population interactions between two species.\nA. In both parasitism and commensalism, only one species benefits and the other species is harmed.\nB. Both species benefit in mutualism.\nC. Both species benefit in commensalism.\nD. In parasitism, only one species benefits and the other species is harmed.\nE. In amensalism, one species is harmed and the other is unaffected.",
+    "image": null,
+    "options": [
+      "B and E only",
+      "A and B only",
+      "B, D and E only",
+      "A and D only"
+    ],
+    "correctAnswer": "B, D and E only",
+    "marks": 4,
+    "negativeMarks": 1
+  }
+]
