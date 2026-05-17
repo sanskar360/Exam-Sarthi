@@ -10,7 +10,7 @@
 <body>
   <div class="app-shell">
     <aside class="sidebar">
-      <a class="sidebar-logo" href="index.html">
+      <a class="sidebar-logo" href="/Exam-Sarthi/frontend/home.html">
         <img src="/Exam-Sarthi/frontend/assets/logo.svg" alt="ExamSarthi logo">
       </a>
       <nav>
@@ -18,7 +18,7 @@
         <a href="exams.html">Exams</a>
         <a href="analytics.html">Analytics</a>
         <a href="settings.html">Settings</a>
-        <a href="login.html" id="logoutLink">Logout</a>
+        <a id="logoutLink" onclick="logout()">Logout</a>
       </nav>
     </aside>
     <main class="app-content">
@@ -77,5 +77,6 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="/Exam-Sarthi/frontend/js/main.js"></script>
   <script src="/Exam-Sarthi/frontend/js/dashboard.js"></script>
+  <script src="/Exam-Sarthi/backend/auth/logout.js"></script>
 </body>
 </html>

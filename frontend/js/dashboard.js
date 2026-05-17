@@ -1,6 +1,6 @@
 const user = getCurrentUser();
 if (user) {
-  document.getElementById("dashboardName").textContent = user.fullName;
+  document.getElementById("dashboardName").textContent = user.name;
 }
 
 const results = getResults();
@@ -39,3 +39,25 @@ new Chart(document.getElementById("weeklyChart"), {
     scales: { y: { beginAtZero: true } }
   }
 });
+
+// MJS
+
+// Geting user from local host
+
+function getCurrentUser(){
+
+    return JSON.parse(
+        localStorage.getItem(
+            "loggedInUser"
+        )
+    );
+}
+
+function getResults(){
+
+    return JSON.parse(
+        localStorage.getItem(
+            "results"
+        )
+    ) || [];
+}

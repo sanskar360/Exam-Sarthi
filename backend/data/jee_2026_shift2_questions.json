@@ -2,6 +2,9 @@
   "exam": "JEE Main 2026 Session-1",
   "date": "2nd April 2026 Shift-2",
   "totalMarks": 300,
+  "examType": "JEE",
+  "duration": 180,
+  "negativeMarking": true,
   "questions": [
     {
       "id": 1,

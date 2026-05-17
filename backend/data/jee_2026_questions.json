@@ -3,7 +3,6 @@
   "date": "2nd April 2026 Shift-1",
   "totalMarks": 300,
   "examType": "JEE",
-  "examLevel": "Main",
   "duration": 180,
   "negativeMarking": true,
   "questions": [

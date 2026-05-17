@@ -1,61 +1,223 @@
-const exams = [
-  { id: "jee", name: "JEE Full Mock Test", category: "JEE", duration: "180 minutes", durationMinutes: 180, difficulty: "Hard", questions: 20 },
-  { id: "neet", name: "NEET Full Mock Test", category: "NEET", duration: "200 minutes", durationMinutes: 200, difficulty: "Medium", questions: 20 },
-  { id: "gate", name: "GATE Full Mock Test", category: "GATE", duration: "180 minutes", durationMinutes: 180, difficulty: "Hard", questions: 20 },
-  { id: "mhtcet", name: "MHTCET Full Mock Test", category: "MHTCET", duration: "180 minutes", durationMinutes: 180, difficulty: "Medium", questions: 20 },
-  { id: "nda", name: "NDA Full Mock Test", category: "NDA", duration: "150 minutes", durationMinutes: 150, difficulty: "Medium", questions: 20 }
-];
+const examCards =
+document.getElementById("examCards");
 
-const examCards = document.getElementById("examCards");
-const searchInput = document.getElementById("examSearch");
+const searchInput =
+document.getElementById("examSearch");
+
 let activeFilter = "all";
 
-function startExam(examId) {
-  const selectedExam = exams.find(exam => exam.id === examId);
-  setJSON(STORAGE_KEYS.selectedExam, selectedExam);
-  localStorage.removeItem(STORAGE_KEYS.activeAnswers);
-  window.location.href = "exam.html";
+let exams = [];
+
+async function loadExams(){
+
+    try{
+
+        const examFiles = [
+
+            "/Exam-Sarthi/backend/data/jee_2026_questions.json",
+
+            "/Exam-Sarthi/backend/data/jee_2026_shift2_questions.json",
+
+            "/Exam-Sarthi/backend/data/mht_cet_2025_questions.json",
+
+            "/Exam-Sarthi/backend/data/NDA_2025_GAT_questions.json",
+
+            "/Exam-Sarthi/backend/data/NDA_2025_maths_questions.json",
+
+            "/Exam-Sarthi/backend/data/neet_2026_questions.json"
+        ];
+
+        const responses =
+        await Promise.all(
+
+            examFiles.map(
+                file => fetch(file)
+            )
+        );
+
+        exams =
+        await Promise.all(
+
+            responses.map(
+                response => response.json()
+            )
+        );
+
+        renderExams();
+
+    } catch(error){
+
+        console.log(
+            "Error loading exams",
+            error
+        );
+    }
 }
 
-function renderExams() {
-  const searchText = searchInput.value.toLowerCase();
-  const visibleExams = exams.filter(exam => {
-    const matchesSearch = exam.name.toLowerCase().includes(searchText) || exam.category.toLowerCase().includes(searchText);
-    const matchesFilter = activeFilter === "all" || exam.category.includes(activeFilter);
-    return matchesSearch && matchesFilter;
-  });
+function startExam(examId){
 
-  examCards.innerHTML = visibleExams.map(exam => `
-    <div class="col-md-6 col-xl-4">
-      <article class="exam-card ${exam.id}">
-        <div class="exam-card-head">
-          <span class="exam-icon">${exam.category.slice(0, 2)}</span>
-          <span class="section-label">${exam.category}</span>
-        </div>
-        <h2 class="h5 fw-bold mt-3">${exam.name}</h2>
-        <div class="exam-meta">
-          <span>Duration: ${exam.duration}</span>
-          <span>Difficulty: ${exam.difficulty}</span>
-          <span>Questions: ${exam.questions}</span>
-        </div>
-        <button class="btn btn-primary rounded-pill w-100" onclick="startExam('${exam.id}')">Start Exam</button>
-      </article>
-    </div>
-  `).join("") || `<p class="text-secondary">No exams found.</p>`;
+    let selectedExam =
+    exams.find(
+        exam => exam.id == examId
+    );
+
+    localStorage.setItem(
+        "selectedExam",
+        JSON.stringify(selectedExam)
+    );
+
+    localStorage.removeItem(
+        "activeAnswers"
+    );
+
+    window.location.href =
+    "exam.html";
 }
 
-document.querySelectorAll(".filter-btn").forEach(button => {
-  button.addEventListener("click", function () {
-    activeFilter = this.dataset.filter;
-    document.querySelectorAll(".filter-btn").forEach(btn => {
-      btn.classList.remove("btn-primary");
-      btn.classList.add("btn-outline-primary");
+function renderExams(){
+
+    let searchText =
+    searchInput.value.toLowerCase();
+
+    let visibleExams =
+    exams.filter(exam => {
+
+        let matchesSearch =
+
+            exam.exam
+            .toLowerCase()
+            .includes(searchText)
+
+            ||
+
+            exam.examType
+            .toLowerCase()
+            .includes(searchText);
+
+        let matchesFilter =
+
+            activeFilter === "all"
+
+            ||
+
+            exam.examType === activeFilter;
+
+        return (
+            matchesSearch &&
+            matchesFilter
+        );
     });
-    this.classList.add("btn-primary");
-    this.classList.remove("btn-outline-primary");
-    renderExams();
-  });
+
+    examCards.innerHTML =
+
+    visibleExams.map(exam => `
+
+        <div class="col-md-6 col-xl-4">
+
+            <article class="exam-card">
+
+                <div class="exam-card-head">
+
+                    <span class="exam-icon">
+
+                        ${exam.examType.slice(0,2)}
+
+                    </span>
+
+                    <span class="section-label">
+
+                        ${exam.examType}
+
+                    </span>
+
+                </div>
+
+                <h2 class="h5 fw-bold mt-3">
+
+                    ${exam.exam}
+
+                </h2>
+
+                <div class="exam-meta">
+
+                    <span>
+                        Duration:
+                        ${exam.duration} mins
+                    </span>
+
+                    <span>
+                        Total:
+                        ${exam.totalMarks}
+                    </span>
+
+                    <span>
+                        Year:
+                        ${exam.date}
+                    </span>
+
+                </div>
+
+                <button
+                  class="btn btn-primary rounded-pill w-100"
+                  onclick="startExam(${exam.id})"
+                >
+                  Start Exam
+                </button>
+
+            </article>
+
+        </div>
+
+    `).join("")
+
+    ||
+
+    `<p class="text-secondary">
+        No exams found.
+    </p>`;
+}
+
+document
+.querySelectorAll(".filter-btn")
+.forEach(button => {
+
+    button.addEventListener(
+        "click",
+
+        function(){
+
+            activeFilter =
+            this.dataset.filter;
+
+            document
+            .querySelectorAll(".filter-btn")
+            .forEach(btn => {
+
+                btn.classList.remove(
+                    "btn-primary"
+                );
+
+                btn.classList.add(
+                    "btn-outline-primary"
+                );
+            });
+
+            this.classList.add(
+                "btn-primary"
+            );
+
+            this.classList.remove(
+                "btn-outline-primary"
+            );
+
+            renderExams();
+        }
+    );
 });
 
-searchInput.addEventListener("input", renderExams);
-renderExams();
+searchInput.addEventListener(
+    "input",
+    renderExams
+);
+
+loadExams();
