@@ -1,9 +1,3 @@
-/* =========================================
-   ExamSarthi – Auth Logic & Validation
-   ========================================= */
-
-'use strict';
-
 // ── TAB SWITCHING ──────────────────────────────────────────
 function switchTab(tab) {
   const loginForm   = document.getElementById('loginForm');
@@ -45,206 +39,130 @@ function togglePassword(inputId, btn) {
       </svg>`;
 }
 
-// ── VALIDATION HELPERS ─────────────────────────────────────
-function isValidEmail(email) {
-  return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.trim());
-}
+// Validation 
 
-function setError(inputId, errId, msg) {
-  const input = document.getElementById(inputId);
-  const err   = document.getElementById(errId);
-  input.classList.add('is-error');
-  input.classList.remove('is-success');
-  err.textContent = msg;
-}
+// ── LOGIN ─────────────────────────────────────
 
-function setSuccess(inputId, errId) {
-  const input = document.getElementById(inputId);
-  const err   = document.getElementById(errId);
-  input.classList.remove('is-error');
-  input.classList.add('is-success');
-  err.textContent = '';
-}
+document.getElementById("loginForm")
+.addEventListener("submit", function(e){
 
-function clearError(inputId, errId) {
-  const input = document.getElementById(inputId);
-  const err   = document.getElementById(errId);
-  input.classList.remove('is-error', 'is-success');
-  err.textContent = '';
-}
+    e.preventDefault();
 
-function clearAllErrors() {
-  ['loginEmail','loginPassword','signupName','signupEmail','signupPassword','signupConfirm']
-    .forEach(id => {
-      const el = document.getElementById(id);
-      if (el) { el.classList.remove('is-error', 'is-success'); }
-    });
-  ['loginEmailErr','loginPassErr','signupNameErr','signupEmailErr','signupPassErr','signupConfirmErr']
-    .forEach(id => {
-      const el = document.getElementById(id);
-      if (el) el.textContent = '';
-    });
-}
+    let email =
+    document.getElementById("loginEmail").value;
 
-// ── PASSWORD STRENGTH ──────────────────────────────────────
-document.getElementById('signupPassword').addEventListener('input', function () {
-  const val = this.value;
-  let score = 0;
-  if (val.length >= 8)             score++;
-  if (/[A-Z]/.test(val))          score++;
-  if (/[0-9]/.test(val))          score++;
-  if (/[^A-Za-z0-9]/.test(val))   score++;
+    let password =
+    document.getElementById("loginPassword").value;
 
-  const fill  = document.getElementById('strengthFill');
-  const label = document.getElementById('strengthLabel');
-  const configs = [
-    { w: '0%',    bg: '',           text: '',            color: '' },
-    { w: '25%',   bg: '#ef4444',    text: 'Weak',        color: '#ef4444' },
-    { w: '50%',   bg: '#f97316',    text: 'Fair',        color: '#f97316' },
-    { w: '75%',   bg: '#eab308',    text: 'Good',        color: '#eab308' },
-    { w: '100%',  bg: '#22c55e',    text: 'Strong 🎉',   color: '#22c55e' },
-  ];
-  const cfg = configs[val.length === 0 ? 0 : score];
-  fill.style.width      = cfg.w;
-  fill.style.background = cfg.bg;
-  label.textContent     = cfg.text;
-  label.style.color     = cfg.color;
-});
+    if(!email || !password){
 
-// ── LIVE INLINE VALIDATION ─────────────────────────────────
-function attachLiveValidation(inputId, errId, validatorFn) {
-  const input = document.getElementById(inputId);
-  if (!input) return;
-  input.addEventListener('blur', () => {
-    const result = validatorFn(input.value);
-    if (result) setError(inputId, errId, result);
-    else         setSuccess(inputId, errId);
-  });
-  input.addEventListener('input', () => {
-    if (input.classList.contains('is-error')) {
-      const result = validatorFn(input.value);
-      if (!result) setSuccess(inputId, errId);
-      else document.getElementById(errId).textContent = result;
+        alert("Please fill all fields");
+
+        return;
     }
-  });
-}
 
-attachLiveValidation('loginEmail', 'loginEmailErr', v =>
-  !v.trim() ? 'Email is required.' : !isValidEmail(v) ? 'Enter a valid email address.' : '');
+    let users =
+    JSON.parse(
+        localStorage.getItem("users")
+    ) || [];
 
-attachLiveValidation('loginPassword', 'loginPassErr', v =>
-  !v ? 'Password is required.' : v.length < 6 ? 'Minimum 6 characters required.' : '');
+    let user =
+    users.find(
+        user =>
+            user.email === email &&
+            user.password === password
+    );
 
-attachLiveValidation('signupName', 'signupNameErr', v =>
-  !v.trim() ? 'Full name is required.' : v.trim().length < 2 ? 'Name must be at least 2 characters.' : '');
+    if(user){
 
-attachLiveValidation('signupEmail', 'signupEmailErr', v =>
-  !v.trim() ? 'Email is required.' : !isValidEmail(v) ? 'Enter a valid email address.' : '');
+        localStorage.setItem(
+            "loggedInUser",
+            JSON.stringify(user)
+        );
 
-attachLiveValidation('signupPassword', 'signupPassErr', v =>
-  !v ? 'Password is required.' : v.length < 8 ? 'Password must be at least 8 characters.' : '');
+        alert("Login Successful");
 
-attachLiveValidation('signupConfirm', 'signupConfirmErr', v => {
-  const pass = document.getElementById('signupPassword').value;
-  return !v ? 'Please confirm your password.' : v !== pass ? 'Passwords do not match.' : '';
+        window.location.href =
+        "dashboard.html";
+
+    } else {
+
+        alert("Invalid Credentials");
+    }
 });
 
-// ── BUTTON LOADING STATE ───────────────────────────────────
-function setLoading(btnId, loading) {
-  const btn   = document.getElementById(btnId);
-  const label = btn.querySelector('.btn-label');
-  const loader = btn.querySelector('.btn-loader');
-  btn.disabled = loading;
-  label.classList.toggle('d-none', loading);
-  loader.classList.toggle('d-none', !loading);
-}
+// ── SIGNUP ───────────────────────────────────
 
-// ── TOAST ──────────────────────────────────────────────────
-function showToast(msg) {
-  const wrap = document.getElementById('toastWrap');
-  document.getElementById('toastMsg').textContent = msg;
-  wrap.classList.add('show');
-  setTimeout(() => wrap.classList.remove('show'), 3200);
-}
+document.getElementById("signupForm")
+.addEventListener("submit", function(e){
 
-// ── LOGIN SUBMIT ───────────────────────────────────────────
-document.getElementById('loginForm').addEventListener('submit', async function (e) {
-  e.preventDefault();
-  let hasError = false;
+    e.preventDefault();
 
-  const email    = document.getElementById('loginEmail').value;
-  const password = document.getElementById('loginPassword').value;
+    let name =
+    document.getElementById("signupName").value;
 
-  if (!email.trim()) {
-    setError('loginEmail', 'loginEmailErr', 'Email is required.'); hasError = true;
-  } else if (!isValidEmail(email)) {
-    setError('loginEmail', 'loginEmailErr', 'Enter a valid email address.'); hasError = true;
-  } else { setSuccess('loginEmail', 'loginEmailErr'); }
+    let email =
+    document.getElementById("signupEmail").value;
 
-  if (!password) {
-    setError('loginPassword', 'loginPassErr', 'Password is required.'); hasError = true;
-  } else if (password.length < 6) {
-    setError('loginPassword', 'loginPassErr', 'Minimum 6 characters required.'); hasError = true;
-  } else { setSuccess('loginPassword', 'loginPassErr'); }
+    let password =
+    document.getElementById("signupPassword").value;
 
-  if (hasError) return;
+    let confirm =
+    document.getElementById("signupConfirm").value;
 
-  setLoading('loginBtn', true);
-  // Simulate API call
-  await new Promise(r => setTimeout(r, 1500));
-  setLoading('loginBtn', false);
+    if(
+        !name ||
+        !email ||
+        !password ||
+        !confirm
+    ){
 
-  showToast('Login successful! Redirecting…');
-  setTimeout(() => {
-    // In production, redirect to dashboard
-    // window.location.href = '/dashboard';
-    console.log('Redirect to dashboard');
-  }, 1800);
-});
+        alert("Please fill all fields");
 
-// ── SIGNUP SUBMIT ──────────────────────────────────────────
-document.getElementById('signupForm').addEventListener('submit', async function (e) {
-  e.preventDefault();
-  let hasError = false;
+        return;
+    }
 
-  const name     = document.getElementById('signupName').value;
-  const email    = document.getElementById('signupEmail').value;
-  const password = document.getElementById('signupPassword').value;
-  const confirm  = document.getElementById('signupConfirm').value;
+    if(password !== confirm){
+        alert("Passwords do not match");
+        return;
+    }
 
-  if (!name.trim()) {
-    setError('signupName', 'signupNameErr', 'Full name is required.'); hasError = true;
-  } else if (name.trim().length < 2) {
-    setError('signupName', 'signupNameErr', 'Name must be at least 2 characters.'); hasError = true;
-  } else { setSuccess('signupName', 'signupNameErr'); }
+    let users =
+    JSON.parse(
+        localStorage.getItem("users")
+    ) || [];
 
-  if (!email.trim()) {
-    setError('signupEmail', 'signupEmailErr', 'Email is required.'); hasError = true;
-  } else if (!isValidEmail(email)) {
-    setError('signupEmail', 'signupEmailErr', 'Enter a valid email address.'); hasError = true;
-  } else { setSuccess('signupEmail', 'signupEmailErr'); }
+    let existingUser =
+    users.find(
+        user => user.email === email
+    );
 
-  if (!password) {
-    setError('signupPassword', 'signupPassErr', 'Password is required.'); hasError = true;
-  } else if (password.length < 8) {
-    setError('signupPassword', 'signupPassErr', 'Password must be at least 8 characters.'); hasError = true;
-  } else { setSuccess('signupPassword', 'signupPassErr'); }
+    if(existingUser){
 
-  if (!confirm) {
-    setError('signupConfirm', 'signupConfirmErr', 'Please confirm your password.'); hasError = true;
-  } else if (confirm !== password) {
-    setError('signupConfirm', 'signupConfirmErr', 'Passwords do not match.'); hasError = true;
-  } else { setSuccess('signupConfirm', 'signupConfirmErr'); }
+        alert("User already exists");
 
-  if (hasError) return;
+        return;
+    }
 
-  setLoading('signupBtn', true);
-  await new Promise(r => setTimeout(r, 1600));
-  setLoading('signupBtn', false);
+    let newUser = {
 
-  showToast('Account created! Welcome to ExamSarthi 🎉');
-  setTimeout(() => {
-    switchTab('login');
-    document.getElementById('loginEmail').value = email;
-  }, 2000);
+        id: Date.now(),
+
+        name,
+
+        email,
+
+        password
+    };
+
+    users.push(newUser);
+
+    localStorage.setItem(
+        "users",
+        JSON.stringify(users)
+    );
+
+    alert("Signup Successful");
+
+    switchTab("login");
 });
