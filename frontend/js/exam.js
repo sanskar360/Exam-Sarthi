@@ -6,7 +6,6 @@ JSON.parse(
 );
 
 if(!selectedExam){
-
     window.location.href =
     "exams.html";
 }
@@ -101,7 +100,6 @@ function renderQuestion(){
 
         document
         .querySelectorAll(".option-item")
-
         .forEach(item => {
 
             item.addEventListener(

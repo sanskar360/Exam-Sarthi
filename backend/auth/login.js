@@ -27,3 +27,29 @@ function login(email, password){
         alert("Invalid Credentials");
     }
 }
+
+
+document.getElementById(
+    "loginForm"
+)
+
+.addEventListener(
+    "submit",
+
+    function(e){
+
+        e.preventDefault();
+
+        let email =
+        document.getElementById(
+            "loginEmail"
+        ).value;
+
+        let password =
+        document.getElementById(
+            "loginPassword"
+        ).value;
+
+        login(email, password);
+    }
+);

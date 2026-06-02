@@ -22,22 +22,49 @@ recentBody.innerHTML = recentResults.length
     `).join("")
   : `<tr><td colspan="3" class="text-secondary">No tests attempted yet.</td></tr>`;
 
+const labels = results.slice(-7).map(result => result.examName);
+const scores = results.slice(-7).map(result => Math.max(0, result.score));
+const chartLabels = results.slice(-7).map(result => result.examName);
+
+const chartScores = results.slice(-7).map(
+    result => result.score
+);
+
 new Chart(document.getElementById("weeklyChart"), {
-  type: "bar",
-  data: {
-    labels: ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
-    datasets: [{
-      label: "Questions Practiced",
-      data: [22, 35, 28, 42, 31, 48, Math.max(12, results.length * 10)],
-      backgroundColor: "#2563EB",
-      borderRadius: 6
-    }]
-  },
-  options: {
-    responsive: true,
-    plugins: { legend: { display: false } },
-    scales: { y: { beginAtZero: true } }
-  }
+    type: "bar",
+
+    data: {
+        labels: chartLabels,
+
+        datasets: [{
+            label: "Score %",
+            data: chartScores,
+            backgroundColor: "#2563EB",
+            borderRadius: 8,
+            maxBarThickness: 60
+        }]
+    },
+
+    options: {
+        responsive: true,
+        maintainAspectRatio: false,
+
+        plugins: {
+            legend: {
+                display: false
+            }
+        },
+
+        scales: {
+            y: {
+                beginAtZero: true
+            },
+
+            x: {
+                display: false
+            }
+        }
+    }
 });
 
 // MJS

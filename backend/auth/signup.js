@@ -38,3 +38,34 @@ function signup(name, email, password){
     window.location.href =
     "login.html";
 }
+
+
+document.getElementById(
+    "signupForm"
+)
+
+.addEventListener(
+    "submit",
+
+    function(e){
+
+        e.preventDefault();
+
+        let name =
+        document.getElementById(
+            "signupName"
+        ).value;
+
+        let email =
+        document.getElementById(
+            "signupEmail"
+        ).value;
+
+        let password =
+        document.getElementById(
+            "signupPassword"
+        ).value;
+
+        signup(name, email, password);
+    }
+);

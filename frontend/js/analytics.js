@@ -55,15 +55,7 @@ document.getElementById(
   "rankCard"
 ).textContent =
 
-latest.percentage >= 80
-
-? "Top 10%"
-
-: latest.percentage >= 60
-
-? "Top 25%"
-
-: "Top 40%";
+latest.percentage >= 80? "Top 10%" : latest.percentage >= 60 ? "Top 25%" : "Top 40%";
 
 new Chart(
 
